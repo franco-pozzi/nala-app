@@ -1,0 +1,39 @@
+{
+  "title": "Feedbacks & Reconocimientos",
+  "title_send_feedback": "Enviar feedback",
+  "title_send_acknowledgment": "Enviar reconocimiento",
+  "sent": "Enviado",
+  "received": "Recibido",
+  "FeedbackStartStopContinue": "Feedback",
+  "FeedbackSimple": "Feedback",
+  "FeedbackAcknowledgement": "Reconocimiento",
+  "select_collaborator": "Seleccionar Colaborador",
+  "select_type_of_feedback": "Seleccionar tipo de feedback",
+  "select_an_acknowledgment": "Seleccione un reconocimiento (opcional)",
+  "view_less": "Ver menos",
+  "view_more": "Ver más",
+  "send_feedback_successfully": "Se ha enviado el feedback exitosamente",
+  "error_feedback": "No se pudo enviar tu feedback",
+  "simple": "Simple",
+  "stop_start_continue": "Stop/Start/Continue",
+  "write_message": "Escribir mensaje",
+  "send_feedback": "Enviar feedback",
+  "acknowledgment": "Reconocimiento",
+  "should_start_do": "Debería empezar a hacer",
+  "should_stop_do": "Debería dejar de hacer",
+  "should_continue_do": "Debería continuar haciendo",
+  "start_stop_continue": "Start/Stop/Continue",
+  "buttons": {
+    "actions": "Acciones",
+    "send_feedback": "Enviar Feedback",
+    "send_acknowledgment": "Enviar Reconocimiento"
+  },
+  "excelHeader": {
+    "employeeFromFullName": "Nombre de colaborador que envía",
+    "employeeFromEmail": "Correo de colaborador que envía",
+    "employeeToFullName": "Nombre de colaborador que recibe",
+    "employeeToEmail": "Correo del colaborador que recibe",
+    "dateSending": "Fecha de envío",
+    "type": "Tipo"
+  }
+}

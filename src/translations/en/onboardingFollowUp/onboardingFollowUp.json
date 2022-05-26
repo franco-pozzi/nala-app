@@ -1,0 +1,34 @@
+{
+  "title": "My Onboarding follow up",
+  "tabs": {
+    "overview": "Overview",
+    "results": "My results"
+  },
+  "team": {
+    "title": "Your team",
+    "subtitle": "Meet the members of your team",
+    "manager": "My Manager"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "subtitle": "Complete your tasks to advance"
+  },
+  "onboardingFollowUp": "Onboarding Follow-up Collaborators",
+  "searchCollaborators": "Search for partners",
+  "collaboratorsInFollowUp": "Collaborators in follow-up",
+  "detailsTable": {
+    "position": "Position",
+    "days": "Days",
+    "satisfaction": "Satisfaction",
+    "performance": "Performance"
+  },
+  "description":{
+    "days": "Number of days in the company"
+  },
+  "actions": {
+    "viewProfile": "View profile",
+    "viewFollowUp": "View tracking"
+  },
+  "downloadTitle": "Follow-up Collaborators",
+  "noResult": "No result"
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Descubre el talento y poténcialo",
+  "subtitle": "Obten las herramientas que necesitas para tomar decisiones que potencien tu equipo.",
+  "sign_in": "Inicia Sesión",
+  "welcome": "Hola, bienvenido",
+  "sign_in_with_google": "Inicia sesión con Gmail",
+  "email": "Email",
+  "password": "Contraseña",
+  "forgotten_password_question": "¿Has olvidado la contraseña?",
+  "free_text": "Gratuito 2 meses",
+  "no_credit_card": "No se necesita tarjeta de crédito",
+  "no_account": "¿No tienes cuenta?",
+  "register_now": "Únete ahora",
+  "or": "O",
+  "create_password": "Crear contraseña",
+  "password_dont_match": "Contraseñas no coinciden",
+  "recover_password": {
+    "send_instructions": "Enviar instrucciones",
+    "instructions_message": "Enviamos las instrucciones a tu email:",
+    "recover_password": "Recuperar contraseña",
+    "same_passwords_validation": "Las contraseñas tienen que ser las mismas",
+    "validate_password_lenght": "La contraseña debe tener 8-16 carácteres",
+    "repeat_password": "Repetir contraseña",
+    "save_changes": "Guardar cambios",
+    "your_email": "Tú email",
+    "successfully_recover": "Tu contraseña fue restablecida con éxito. ¡Vuelve a iniciar sesión!",
+    "validate_password_max_length": "Debe contener menos de 16 carácteres"
+  },
+  "change_password": {
+    "actual_password": "Contraseña actual",
+    "new_password": "Nueva contraseña",
+    "new_password_confirmation": "Repetir nueva contraseña",
+    "change_password": "Cambiar contraseña",
+    "cancel": "Cancelar",
+    "change_your_password": "Cambiar contraseña",
+    "error_actual_password": "La contraseña actual es incorrecta"
+  },
+  "password_created_successfully": "Contraseña creada exitosamente",
+  "invalid_token_password_created": "Tu token es inválido, solicita recuperar contraseña",
+  "token_expired": "Tu token ha caducado",
+  "password_create_successfully": "La contraseña se creó correctamente"
+}

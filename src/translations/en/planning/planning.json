@@ -1,0 +1,66 @@
+{
+  "title": "Planning",
+  "subtitle": "Here you can manage all the surveys that will help you to measure the most relevant aspects of the company's culture.",
+  "surveys": {
+    "title": "Choose an option to create a survey process",
+    "preview_text": "Know what",
+    "preview_strong_text": "type of survey will receive employees",
+    "reminder": "Send reminder to employees",
+    "target_audience": "Target audience",
+    "number_of_participants": "# of survey participants"
+  },
+  "modal": {
+    "title": "Survey participants"
+  },
+  "calendar": {
+    "title": "Calendar",
+    "events": "Events",
+    "today": "Today",
+    "reminder": "Reminder",
+    "days": "days",
+    "day": "day",
+    "empty_events": "There is nothing planned for the day"
+  },
+  "alertMessage": {
+    "title_delete": "Delete Event",
+    "text_delete": "Do you want to delete this event?"
+  },
+  "processDetail": {
+    "title": "State",
+    "subtitle": "(Updates the status 1 time per day)",
+    "status": {
+      "incomplete": "Pending",
+      "does_not_apply": "Not applicable",
+      "complete": "Done"
+    },
+    "status_detail": {
+      "incomplete": "Remember that it is important for us to have your feedback to contribute to the process.",
+      "does_not_apply": "You do not meet the minimum time in the company to participate in the process.",
+      "complete": "Thank you for participating in the process!"
+    },
+    "audience": {
+      "all": "All"
+    }
+  },
+  "evaluations": {
+    "Autoevaluation": {
+      "title": "Self - evaluation",
+      "action": "Answer"
+    },
+    "CollaboratorsEvaluation": {
+      "title": "Leader Evaluation"
+    },
+    "ManagerEvaluation": {
+      "title": "Team Evaluation"
+    },
+    "PairsEvaluation": {
+      "title": "Pairs Evaluation",
+      "subtitle": "Select the peer you want to give your feedback to.",
+      "action": "Answer"
+    },
+    "OverallEvaluation": {
+      "title": "Evaluation",
+      "action": "Answer"
+    }
+  }
+}

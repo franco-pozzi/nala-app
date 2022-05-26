@@ -1,0 +1,93 @@
+{
+  "title": "Performance",
+  "no-data-message": "Dashboad’s information will be available when the employees fill the performance surveys.",
+  "no-data-title": "No data",
+  "goodLeaderData": {
+    "beAGoodCoach": "Be a good Coach",
+    "empowerTeam": "Empower the team and don’t micromanage",
+    "expressInterest": "Express interest and concern",
+    "beVeryProductive": "Be very productive",
+    "beAGoodCommunicator": "Be a good communicator",
+    "helpTeam": "Help the team with career development",
+    "visionOfArea": "Vision of the area",
+    "technicalSkills": "Technical skills",
+    "leadershipReport": "Leadership report",
+    "participation": "Participation",
+    "numberSurveysAnswered": "Number of surveys answered",
+    "numberManagersEvaluated": "How many leaders have been evaluated?"
+  },
+  "leaderClassification": {
+    "exemplaryLeader": "Role Model",
+    "goodLeader": "Good Leader",
+    "leaderInDevelopment": "Developing Leader",
+    "box": "Boss"
+  },
+  "featureTitle": "We evaluate the 8 characteristics that make a Good Leader:",
+  "classificationTitle": "Classification according to the results:",
+  "grades": "Grades",
+  "comments": "Comments",
+  "leaderEvaluation": "The Good Leader assessment",
+  "leaderEvaluationText": "In this section we collect the feedback from your team so that you can know those leadership competencies that you recognize in yourself and those that you must work to become an exemplary leader. Take this feedback as a gift.",
+  "leaderDescriptionQuestion": "The questions asked to your team were based on the characteristics of a good Leader, this is the detail of the final results.",
+  "leaderComments": "Due to confidentiality issues, you cannot see the people who made comments.",
+  "leadershipAssessment": "Leadership Assessment",
+  "evaluationTeamTitle": "Get to know your strengths and development needs:",
+  "evaluationTeam": "Team's assessment",
+  "performanceEvaluationNote": "Performance evaluation",
+  "evaluation": "Performance",
+  "selectEvolution": "Select rating period",
+  "seeComments": "See comments",
+  "generalComments": "General Comments",
+  "noComments": "No comments",
+  "dashboard": {
+    "title": "Performance dashboard",
+    "filter_evaluation": "Select rating period",
+    "top_collaborators": "Top",
+    "bottom_collaborators": "Bottom",
+    "graphic_title": "Performance Evolution",
+    "heat_map_title": "Critical areas map",
+    "value_scala": "Scale",
+    "select": "Select",
+    "country": "Country",
+    "city": "City",
+    "division": "Department",
+    "area": "Area",
+    "subarea": "Subarea",
+    "download_image": "Download Image",
+    "download_pdf": "Download PDF",
+    "unities": "Department",
+    "collaborators": "Team",
+    "total": "Total",
+    "download": "Download",
+    "excel": "Excel",
+    "manager": "Manager"
+  },
+  "classificationRank": {
+    "super_star": "Super Star",
+    "star": "Star",
+    "consistent": "Consistent",
+    "in_development": "In development",
+    "not_consistent": "Not very consistent"
+  },
+  "alert": "Weighted performance",
+  "goodLeaderDescriptionScale": "According to the answers there are 4 classifications:",
+  "managers": "Leaders",
+  "classificationRankDescription": {
+    "superStar": {
+      "text": "Is proactive, goes above and beyond assigned tasks and job functions. Works under few guidelines and little or no supervision."
+    },
+    "star": {
+      "text": "Performs assigned tasks and functions in an outstanding manner in quality and time.",
+      "moreInfo": "- Occasionally delivers extraordinary results to what his/her position requires."
+    },
+    "consistent": {
+      "text": "Performs assigned duties and tasks without standing out."
+    },
+    "inDevelopment": {
+      "text": "Does not complete what is assigned, occasionally does not deliver the expected results. Has not achieved mastery of his/her position."
+    },
+    "notConsistent": {
+      "text": "Does not comply with assigned work and expectations of his/her position."
+    }
+  }
+}

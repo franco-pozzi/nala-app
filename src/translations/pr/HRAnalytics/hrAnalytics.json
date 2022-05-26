@@ -1,0 +1,10 @@
+{
+  "title": "HR Analytics",
+  "beta-title": "Analytics Beta",
+  "charts": {
+    "HCEvolution": "Evolução de HC",
+    "FTC_CTCMonth": "Evolução da projeção de folha & Evolução da folha",
+    "FTC": "Evolução da projeção de folha",
+    "CTCMonth": "Evolução da folha"
+  }
+}

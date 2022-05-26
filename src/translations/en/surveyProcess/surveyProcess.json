@@ -1,0 +1,74 @@
+{
+  "title": "Surveys",
+  "form": {
+    "fields": {
+      "process_type": "Process type",
+      "process_name": "Process name",
+      "min_worked_days": "Minimum time in the company to participate (days)",
+      "min_worked": "Minimum time in the company to participate",
+      "days": "Days",
+      "start_date": "Start date",
+      "end_date": "End date",
+      "select_evaluations": "Select the evaluations that apply",
+      "weighing": "Weighing",
+      "link": "Form url",
+      "answers_file_location": "Answers file location",
+      "params": {
+        "title": "Valid parameters for this type of evaluation",
+        "subtitle": "If you do not enter the parameters the autocompletion of the form will not work",
+        "evaluator_email": "Key for evaluator email",
+        "evaluated_name": "Key for name of the evaluated",
+        "evaluated_email": "Key for email of the evaluated"
+      },
+      "follow_up": "Follow up",
+      "evaluated": "Evaluating to:",
+      "evaluator": "Evaluator",
+      "people": "People",
+      "general_data": {
+        "title": "General Settings",
+        "comments": "Comments",
+        "general_comments_title": "General comments",
+        "nala_form": "Activate Nala Form for this process",
+        "general_comments": "Enable General Comments"
+      }
+    }
+  },
+  "evaluation_types": {
+    "self_evaluation": "Self review",
+    "manager": "Manager",
+    "pairs": "Peers",
+    "collaborators": "Team",
+    "overall": "General",
+    "human_resources": "HR"
+  },
+  "processes_types": {
+    "performance": "Performance Evaluation",
+    "potential": "Skills Survey",
+    "engagement": "Engagement Barometer",
+    "good_leader": "Good leader survey",
+    "training": "Training Evaluation"
+  },
+  "evaluations": {
+    "collaborators": {
+      "submitted": "As a Team",
+      "received": "From Team"
+    },
+    "pairs": {
+      "submitted": "As a peer",
+      "received": "From peers"
+    },
+    "manager": {
+      "submitted": "As Leader",
+      "received": "From Leader"
+    }
+  },
+  "details": "Detail Answers",
+  "received": "Received",
+  "report": "# Direct reports",
+  "evaluator_name": "Evaluator name",
+  "evaluated_name": "Name of the evaluated",
+  "evaluator_email": "Evaluator email",
+  "evaluated_email": "Email of the evaluated",
+  "comments": "Comments",
+  "evaluations_to_answers": "# Total evaluations to be done"
+}

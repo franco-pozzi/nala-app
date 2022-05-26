@@ -1,0 +1,103 @@
+{
+  "title": "Candidatos",
+  "selected-collaborators": "Seleccionado",
+  "search": "Buscar",
+  "row": "Filas",
+  "created_successfull": "El candidato se ha creado correctamente",
+  "candidate_creation_title_success": "Creación de candidatos",
+  "mark_as_hired_modal": {
+    "title": "Contratar candidato"
+  },
+  "table": {
+    "no_records": "No hay registros que mostrar",
+    "sub-title": "Candidatos",
+    "table-head": {
+      "name": "Nombre",
+      "position": "Cargo",
+      "responsable": "Responsable",
+      "city": "Ciudad",
+      "admission_date": "Fecha de ingreso",
+      "action": "Acción",
+      "status": "Estado"
+    },
+    "footer-table": {
+      "Rows-Per-Page": "Filas Por Páginas"
+    }
+  },
+  "candidate": "Candidato",
+  "createCandidate": "Crear candidato",
+  "createOnboarding": "Crear Onboarding",
+  "status": {
+    "selected": "Enviado",
+    "fill_data": "Ingreso de datos",
+    "data_filled": "Datos ingresados",
+    "require_more_data": "Requiere más datos",
+    "data_required": "Datos requeridos",
+    "hire": "Contratar",
+    "desist": "Cancelar",
+    "hired": "Contratado",
+    "desisted": "Cancelado"
+  },
+  "actions": {
+    "view_profile": "Ver perfil",
+    "edit_candidate": "Editar candidato",
+    "send_reminder": "Enviar recordatorio",
+    "send_feedback": "Enviar feedback",
+    "mark_as_hired": "Marcar como contratado",
+    "mark_as_desisted": "Marcar como desistido",
+    "continue": "Continuar",
+    "disabled_mark_as_hired_by_date": "Recuerda que puedes marcar como contratado desde su fecha de inicio."
+  },
+  "alertMessage": {
+    "title": "¿Está seguro/a?",
+    "text_reminder": "Estas seguro que quieres enviar un recordatorio al candidato",
+    "cancel": "No, cancelar",
+    "approved": "Si, estoy seguro/a",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "text_hired": "Estas seguro que quieres marcar como contratado al candidato",
+    "text_delete": "Estas seguro que quieres eliminar este candidato",
+    "default_btn_accept": "Aceptar",
+    "default_btn_cancel": "Cancelar",
+    "error": "Error de formulario",
+    "send": "Estas seguro que quieres enviar la información solicitada",
+    "create_candidate": "Estas seguro que quieres enviar la solicitud al candidato o candidata.",
+    "success": "La solicitud ha sido enviada correctamente"
+  },
+  "induction": {
+    "title": "Inducción",
+    "welcome": "Bienvenido",
+    "to": "a",
+    "message": "Esta sección es para que nos conozcas antes de que te incorpores a tu nuevo puesto. Encontráras información sobre nosotros y además te permitirá realizar los trámites administrativos para tu incorporación.",
+    "personal_info": "Información Personal",
+    "additional_info": "Información Adicional",
+    "requested_docs": "Documentos solicitados",
+    "upload": "Subir",
+    "download": "Descargar",
+    "select_file": "Seleccionar archivo",
+    "select_another_file": "Seleccionar otro archivo",
+    "complete_data": "Completa tus datos en la sección",
+    "personal_data": "Datos personales",
+    "description_doc": "Estos son todos los documentos relacionados con tu contrato",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "send": "Enviar",
+    "format_file": "Formato inválido",
+    "formats": "Solo archivos PDF, JPG, JPEG, PNG. Tamaño máximo de archivo de 5 MB.",
+    "ready": "¡Estamos listos!",
+    "ready_text": "Muchas gracias por completar las tareas",
+    "start_date": "tu fecha de ingreso es el",
+    "message_text": "Pronto recibirás un correo electrónico indicandote tus nuevos datos de acceso y así puedas continuar tu proceso.",
+    "select_subtitle": "Seleccione el tipo de onboarding que te gustaría enviar."
+  },
+  "optionsModal": {
+    "one": {
+      "title": "Onboarding un candidato",
+      "subtitle": "Crea tu onboarding para un futuro colaborador."
+    },
+    "massive": {
+      "title": "Onboarding masivo",
+      "subtitle": "Crea tu onboarding para varios colaboradores a la vez."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Planificación",
+  "subtitle": "Aquí podrás manejar los proceso de encuestas que te ayudarán a medir los aspectos más relevantes para la cultura de la organización.",
+  "surveys": {
+    "title": "Elige una opción para crear proceso de encuesta",
+    "preview_text": "Conoce que",
+    "preview_strong_text": "tipo de encuesta le llegará a los colaboradores",
+    "reminder": "Enviar recordatorio a los colaboradores",
+    "target_audience": "Audiencia objetivo",
+    "number_of_participants": "# de participantes de la encuesta"
+  },
+  "modal": {
+    "title": "Participantes de la encuesta"
+  },
+  "calendar": {
+    "title": "Calendario",
+    "events": "Eventos",
+    "today": "Hoy",
+    "reminder": "Recordatorio",
+    "days": "días",
+    "day": "día",
+    "empty_events": "No hay nada planeado para el día"
+  },
+  "alertMessage": {
+    "title_delete": "Eliminar Evento",
+    "text_delete": "¿Quieres eliminar este evento?"
+  },
+  "processDetail": {
+    "title": "Estado",
+    "subtitle": "(Actualiza 1 vez al día el estado)",
+    "status": {
+      "incomplete": "Pendiente",
+      "does_not_apply": "No aplica",
+      "complete": "Realizado"
+    },
+    "status_detail": {
+      "incomplete": "Recuerda que es importante para nosotros contar con tu feedback para aportar en el proceso.",
+      "does_not_apply": "No cumples con el tiempo mínimo en la empresa para participar en el proceso.",
+      "complete": "¡Gracias por participar en el proceso!"
+    },
+    "audience": {
+      "all": "Todos"
+    }
+  },
+  "evaluations": {
+    "Autoevaluation": {
+      "title": "Auto - evaluación",
+      "action": "Responder"
+    },
+    "CollaboratorsEvaluation": {
+      "title": "Evaluación de Líder"
+    },
+    "ManagerEvaluation": {
+      "title": "Evaluación de Equipo"
+    },
+    "PairsEvaluation": {
+      "title": "Evaluación de Pares",
+      "subtitle": "Selecciona al par que quieras entregar tu feedback.",
+      "action": "Responder"
+    },
+    "OverallEvaluation": {
+      "title": "Evaluación",
+      "action": "Responder"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+@import "./variables";
+
+.react-calendar-timeline {
+  .rct-header-root {
+    background: none !important;
+    border: none !important;
+    > div:first-child {
+      min-width: 230px !important;
+      background-color: $lightpurpleBg;
+      border-radius: 4px 0 0 0;
+    }
+  }
+
+  .rct-sidebar {
+    width: 30% !important;
+    max-width: 231px !important;
+    > div:first-child {
+      width: 100% !important;
+    }
+    .rct-sidebar-row {
+      border: 0 !important;
+    }
+  }
+  .rct-dateHeader-primary {
+    background-color: $lightpurpleBg;
+    color: black;
+  }
+
+  .rct-dateHeader {
+    background-color: $lightpurpleBg;
+    border: none !important;
+    font-weight: bold;
+  }
+  .rct-calendar-header {
+    background-color: $lightpurpleBg;
+    border-radius: 0 4px 0 0;
+    border: none !important;
+    border-left: 1px solid $grey !important;
+  }
+
+  .rct-horizontal-lines {
+    .rct-hl-even,
+    .rct-hl-odd {
+      border: none !important;
+    }
+  }
+}
+
+.rct-vl {
+  border: none !important;
+  background: none !important;
+}
+
+.rct-outer {
+  overflow-y: scroll !important;
+  max-height: 560px;
+}
+
+.rct-item-content {
+  width: inherit !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+}
+
+.rct-item {
+  height: 70px !important;
+  margin-top: -5px;
+  align-items: center !important;
+  justify-content: center !important;
+  padding-top: 26px !important;
+}

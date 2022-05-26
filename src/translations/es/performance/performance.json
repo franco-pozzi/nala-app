@@ -1,0 +1,93 @@
+{
+  "title": "Desempeño",
+  "no-data-message": "Para visualizar información del reporte los colaboradores deben haber respondido la encuesta de desempeño.",
+  "no-data-title": "Sin datos",
+  "goodLeaderData": {
+    "beAGoodCoach": "Ser un buen coach",
+    "empowerTeam": "Empoderar al equipo y no microgestionar",
+    "expressInterest": "Expresar interés y preocupación",
+    "beVeryProductive": "Ser muy productivo",
+    "beAGoodCommunicator": "Ser un buen comunicador",
+    "helpTeam": "Ayudar al equipo con el desarrollo profesional",
+    "visionOfArea": "Tener visión del área",
+    "technicalSkills": "Tener las habilidades técnicas",
+    "leadershipReport": "Reporte de liderazgo",
+    "participation": "Participación",
+    "numberSurveysAnswered": "Número de encuestas respondidas",
+    "numberManagersEvaluated": "¿Cuántos lideres han sido evaluados?"
+  },
+  "leaderClassification": {
+    "exemplaryLeader": "Líder ejemplar",
+    "goodLeader": "Buen líder",
+    "leaderInDevelopment": "Líder en desarrollo",
+    "box": "Jefe"
+  },
+  "featureTitle": "Evaluamos las 8 características que hacen a un Buen líder:",
+  "classificationTitle": "Clasificación según el resultado:",
+  "grades": "Nota",
+  "comments": "Comentarios",
+  "leaderEvaluation": "Evaluación del Buen Líder",
+  "leaderEvaluationText": "En esta sección recopilamos la retroalimentación de tu equipo para que puedas conocer esas competencias de liderazgo que reconoce en tí y esas que debes trabajar para convertirte en un líder ejemplar. Toma este feedback como un regalo.",
+  "leaderDescriptionQuestion": "Las preguntas formuladas a tu equipo se basaron en las características de un buen Líder, este es el detalle de los resultado finales.",
+  "leaderComments": "Por temas de confidencialidad no puedes ver las personas que realizaron comentarios.",
+  "leadershipAssessment": "Rating Liderazgo",
+  "evaluationTeamTitle": "Conoce tus virtudes y necesidades de desarrollo:",
+  "evaluationTeam": "Evaluación del equipo",
+  "performanceEvaluationNote": "Evaluación de Desempeño",
+  "evaluation": "Desempeño",
+  "selectEvolution": "Seleccionar periodo",
+  "seeComments": "Ver comentarios",
+  "generalComments": "Comentarios Generales",
+  "noComments": "Sin comentarios",
+  "dashboard": {
+    "title": "Reporte de desempeño",
+    "filter_evaluation": "Seleccionar periodo",
+    "top_collaborators": "Top",
+    "bottom_collaborators": "Bottom",
+    "graphic_title": "Evolución del desempeño",
+    "heat_map_title": "Mapa de áreas críticas",
+    "value_scala": "Escala de valores",
+    "select": "Seleccionar",
+    "country": "País",
+    "city": "Ciudad",
+    "division": "Departamento",
+    "area": "Área",
+    "subarea": "Subárea",
+    "download_image": "Descargar imagen",
+    "download_pdf": "Descargar PDF",
+    "unities": "Departamento",
+    "collaborators": "Equipo",
+    "total": "Total",
+    "download": "Descargar",
+    "excel": "Excel",
+    "manager": "Líder"
+  },
+  "classificationRank": {
+    "super_star": "Super Estrella",
+    "star": "Estrella",
+    "consistent": "Consistente",
+    "in_development": "En desarrollo",
+    "not_consistent": "Poco consistente"
+  },
+  "alert": "Desempeño ponderado",
+  "goodLeaderDescriptionScale": "Según las respuestas hay 4 clasificaciones:",
+  "managers": "Líderes",
+  "classificationRankDescription": {
+    "superStar": {
+      "text": "Es proactivo, va más allá de las tareas asignadas y funciones de su puesto. Trabaja bajo pocos lineamientos y poca o nula supervisión."
+    },
+    "star": {
+      "text": "Realiza las tareas asignadas y funciones de manera sobresaliente en  calidad y tiempo.",
+      "moreInfo": "- Ocasionalmente entrega resultados extraordinarios a lo que su puesto requiere."
+    },
+    "consistent": {
+      "text": "Realiza sus funciones y  tareas asignadas sin destacar."
+    },
+    "inDevelopment": {
+      "text": "No  concluye con lo asignado, ocasionalmente no entrega los resultados esperados. No ha alcanzado a dominar su puesto."
+    },
+    "notConsistent": {
+      "text": "No cumple con el trabajo asignado y expectativas de su puesto."
+    }
+  }
+}

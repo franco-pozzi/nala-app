@@ -1,0 +1,221 @@
+{
+  "title": "Potencial",
+  "no-data-message": "Para visualizar as informações do painel, os colaboradores devem responder às pesquisas",
+  "no-leader-evaluation":"Sem avaliação de potencial quando não há avaliação do líder",
+  "no-data-title": "Não há dados",
+  "potential-measures": {
+    "comprehensive": "Amplo: Aprende com agilidade por meio da experimentação quando precisar resolver problemas, capitalizando sucessos e fracassos.",
+    "balanced": "Equilibrado: gosta de se sentir confiante nas decisões que toma e no trabalho que executa, por isso para tentar uma nova solução para um problema investiga muito bem para não cometer erros, o que o torna menos ágil.",
+    "deep": "Profundo: Resiste aproveitar oportunidades em soluções ou ambientes não testados, prefere contribuir em sua área de atuação, pois os possíveis resultados estão controlados."
+  },
+  "download-excel": "Baixar excel",
+  "matrix": {
+    "title": "Matriz de talentos 9-Box",
+    "performance": "- Desempenho +",
+    "potential": "- Potencial +",
+    "subtitle-box": {
+      "ya": "Cumpre parcialmente",
+      "yb": "Desempenho sólido",
+      "yc": "Excede as expectativas",
+      "xa": "Profundo",
+      "xb": "Equilibrado",
+      "xc": "Amplo"
+    },
+    "title-box": {
+      "a": "7. Desempenho sólido",
+      "text_a": "Entrega resultados acima do esperado e tem altas qualificações de desempenho. Conhece perfeitamente bem seu trabalho atual. Não se adapta às novas situações, particularmente nas situações que estão fora da sua área funcional. Estes profissionais são muito valiosos na organização pelos resultados apresentados e podem ser promovidos dentro da sua área de expertise.",
+      "b": "8. Alto desempenho",
+      "text_b": "Apresenta resultados excepcionais e recebe altas qualificações de desempenho. É particularmente bom na área que se desempenha como em áreas semelhantes onde faz uso das suas habilidades. Pode ser promovido em multiplas áreas técnicas ou funcionais.",
+      "c": "9. Estrela consistente",
+      "text_c": "Bom desempenho em quase tudo o que é demandado à ele. Transmite conhecimento de uma área para outra. Consegue entregar resultados com tempos de execução apertados e baixos recursos. Tem habilidade de assumir novas tarefas, áreas e ser promovido para uma nova função.",
+      "d": "4. Eficiente",
+      "text_d": "Consegue entregar os resultados e em ocasiões pode até superar as expectativas. Conhece seu trabalho atual extremadamente bem. Não se adapta muito bem a novas situações. Tem uma gama restrita de interesses profissionais.",
+      "e": "5. Jogador chave",
+      "text_e": "Cumpre com as expetativas do cargo. Compreende e conhece muito bem seu trabalho atual, e cada vez mais aumenta suas capacidades do cargo. Se adapta a novas situações e desafios, tanto quanto for preciso. Consegue asumir novas responsabilidades que com o tempo consegue desenvolver muito bem. Provavelmente pode ser promovido lateral como verticalmente na organização.",
+      "f": "6. Futura Estrela",
+      "text_f": "Entrega resultados consistentes e por vezes consegue superar as expectativas. Consegue assumir novos desafios e se desenvolver muito bem neles. Rapidamente pega o ritmo das novas tarefas. Tem o potencial de fazer mudanças na sua carreira de acordo as novas situações.",
+      "g": "1. Baixo desempenho",
+      "text_g": "Não está entregando os resultados esperados, e não consegue se adaptar efetivamente às novas e diferentes situações que se apresentam. Precisa de um plano de ação para melhorar o desempenho.",
+      "h": "2. Desempenho inconsistente",
+      "text_h": "Tem potencial para entregar mais, mas ainda não tem demostrado sua capacidade por completo. Não está conseguindo um desempenho dentro do que se espera para o seu cargo e comparado à entrega de sua equipe. Pode ser novo na posição ou estar na posição incorreta.",
+      "i": "3. Diamante em bruto",
+      "text_i": "As pessoas enxergam um alto potencial para fazer grandes coisas na empresa. Pode ser que ainda não teve o tempo ou as oportunidades para mostrar o que pode fazer ou no passado teve uma performance inconsistente. Pode ter tropeçado com obstáculos recentemente, mesmo assim as pessoas ainda acreditam nas suas habilidades para se destacar e virar um grande contribuidor na empresa. Pode ser que esteja na posição errada ou não encaixe na situação atual."
+    },
+    "historical": "Histórico",
+    "historical_text": "Ative as históricos que deseja ver na matriz de talentos",
+    "historical_total": "Colaboradores totais",
+    "historical_empty": "Para ver o histórico deve haver avaliações",
+    "quadrant": "Quadrante",
+    "all_quadrant": "Todo quadrante",
+    "text_details": "Visualize todos ou selecione um quadrante para revisar em detalhes a posição das pessoas na matriz de talentos",
+    "noDataQuadrant": "Não há informações neste quadrante",
+    "table-head-download": {
+      "id": "Id",
+      "name": "Nome",
+      "email": "E-mail",
+      "performanceScore": "Nota de desempenho",
+      "performanceResult": "Resultado de desempenho",
+      "potentialScore": "Nota potencial",
+      "potentialResult": "Resultado potencial",
+      "quadrant": "Quadrante",
+      "process": "Nome do processo"
+    },
+    "view-all": "Ver todos os quadrantes"
+  },
+  "tabPotential": {
+    "alertNoDataTitle": "Não há dados",
+    "alertNoDataMessage": "As informações estarão disponíveis quando as pesquisas de habilidades forem realizadas.",
+    "title": "Habilidades",
+    "introduction": "Por meio das pesquisas de habilidades 360º, aqui você encontra as percepções coletadas sobre seus pontos fortes e oportunidades de desenvolvimento.",
+    "badge": "Reconhecimentos",
+    "previousBadgesAndRecommendations": "Meus agradecimentos e/ou sugestões anteriores",
+    "noDataTitle": "¡Aún no has recibido reconocimientos y/o sugerencias!",
+    "noDataSubtitle": "Puede ser que aún tus compañeros, líderes y/o equipo no han respondido las encuestas.",
+    "noDataMessage": "No está demás recordar que cada uno tiene sus propias motivaciones profesionales que no siempre son reflejadas en las encuestas.",
+    "riskOfLoss": "Risco de perda",
+    "riskOfLossText": "Conheça a probabilidade de abandono do emprego do seu colaborador, isto não reflete a motivação da pessoa mas sim uma probabilidade estatística.",
+    "superpowers_title": "Seus superpoderes são:",
+    "risks_title": "Todo superpotência tem sua fraqueza, considere estas dicas:",
+    "recommendations_title": "Sugestões",
+    "actualRecommendations": "Meus agradecimentos e/ou sugestões atuais",
+    "form": {
+      "description": "Você concorda com o resultado?"
+    },
+    "noneRisk": "Não representa risco de abandono do emprego",
+    "lowRisk": "Representa baixo risco de abandono do emprego",
+    "mediumRisk": "Representa um risco considerável de abandono do emprego",
+    "highRisk": "Representa alto risco de abandono do trabalho",
+    "criticRisk": "Representa risco de abandono crítico do trabalho",
+    "skills": {
+      "titles": {
+        "talented": "Habilidades onde sou talentoso",
+        "developed": "Habilidades desenvolvidas",
+        "toDevelop": "Habilidades que tenho que desenvolver",
+        "tips": "Tips para o seu desenvolvimento"
+      },
+      "tooltips": {
+        "mental": "Aprende rápidamente por meio da experimentação ao enfrentar novas situações, usando sucessos e falhas como oportunidades de aprendizado.",
+        "interpersonal": "Se relaciona de forma aberta e confortável com diversos grupos de pessoas.",
+        "change": "Adapta a abordagem e conduta em tempo real para atender às demandas de mudança em diferentes situações, abraçando a incerteza da mudança.",
+        "results": "Entrega resultados, mesmo quando as coisas não estão dando certo ou o caminho é incerto.",
+        "awareness": "Usa uma combinação de feedback e reflexão para obter uma visão produtiva sobre os pontos fortes e fracos pessoais."
+      },
+      "titleContent":{
+        "Amplio": "Talentoso/a:",
+        "Balanceado": "Habilidoso/a:",
+        "Profundo": "Menos Habilidoso/a:"
+      },
+      "content":{
+        "mental": {
+          "Amplio": ["Experimenta varios métodos para encontrar uma solução por meio da experimentação.", "Os erros são oportunidades de aprendizagem.", "Gosta do desafio de novas tarefas."],
+          "developed": ["Aprende rapidamente quando enfrenta novos problemas.", "Experimenta para encontrar novas soluções.", "Aceita o desafio de tarefas desconhecidas.", "Extrai lições aprendidas de falhas e erros."],
+          "Profundo": ["Tem dificuldade diante de novas situações.", "Diante tarefas as quais não está familiarizado, frustra-se ou fica confuso/a.", "Desiste rapidamente de novas ideias.", "Resiste se arriscar com soluções não testadas."]
+        },
+        "interpersonal": {
+          "Amplio": ["Desenvolve proativamente relacionamentos com uma ampla variedade de pessoas.", "Faz uma conexão imediata, mesmo quando se depara com situações difíceis ou tensas.", "Compreende a dinâmica interpessoal e dinâmica do grupo, além de reagir com eficácia.", "Envolve a opinião dos outros constantemente e ouve com empatia."],
+          "Balanceado": ["Relaciona-se confortavelmente com pessoas em todos os níveis, funções, cultura e geografias.", "Age com diplomacia e tato.", "Constrói relacionamentos de uma forma aberta, amigável e de aceitação.", "Estabelece relacionamentos construtivos com pessoas semelhantes e diferentes de si mesmo."],
+          "Profundo": ["Constrói poucos relacionamentos.", "Envolve-se apenas com pessoas na área de trabalho imediata.", "Sente-se desconfortável ao interagir com pessoas diferentes de si mesmo.", "Expressa pontos de vista de maneira direta ou insensível.", "Mostra pouco interesse nas necessidades dos outros."]
+        },
+        "change": {
+          "Amplio": ["Adapta-se rapidamente às condições de mudança e é pró-ativo na busca de melhorias.", "Identifica a necessidade de mudar rapidamente o comportamento pessoal, interpessoal e de liderança.", "Observa a dinâmica situacional e de grupo e seleciona a abordagem de melhor ajuste de acordo com as necessidades específicas dos outros."],
+          "Balanceado": ["Lida confortavelmente com a incerteza da mudança.", "Pega sinais situacionais e ajusta no momento.", "Compreende que diferentes situações podem exigir abordagens diferentes.", "Pode agir de forma diferente dependendo das circunstâncias."],
+          "Profundo": ["Opera melhor quando as coisas são estruturadas e previsíveis.", "Usa o mesmo estilo e abordagem independentemente da situação, esperando que os outros se ajustem a ele/ela.", "Acha que ser verdadeiro consigo mesmo é tudo o que importa.", "Não investe tempo para compreender as dinâmicas interpessoais."]
+        },
+        "results": {
+          "Amplio": ["É energizado diante de ambiguidade é incerteza.", "Consegue progressos significativos e permanece calmo, memos quando as situações são incertas. ", "Gerencia o risco de seguir em frente quando o resultado é incerto."],
+          "Balanceado": ["Lida com os riscos de maneira eficiente.", "Consegue decidir e atuar sem ter uma visão completa da situação.", "É calmo e produtivo mesmo quando as coisas estão no ar.", "Lida de maneira construtiva com problemas que não apresentam soluções ou resultados claros."],
+          "Profundo": ["Tem dificuldades em progredir em situações ambíguas ou incertas.", "Não age até conhecer todos os detalhes da situação.", "Demonstra estresse quando as coisas estão incertas."]
+        },
+        "awareness": {
+          "Amplio": ["Busca e age com base no feedback de uma ampla variedade de pessoas.", "Admite e assume a responsabilidade por erros e falhas de boa vontade.", "Considera a crítica útil."],
+          "Balanceado": ["Busca feedback de forma proativa, sem ser defensivo.", "Está aberto às críticas e a falar sobre deficiências.", "Admite erros e ganha conhecimentos com as experiências.", "Conhece pontos fortes, pontos fracos, oportunidades e limites"],
+          "Profundo": ["Não reflete sobre os erros do passado.", "Atua na defensiva quando recebe feedback.", "Não tem consciência de suas próprias habilidades e de seu impacto nas pessoas.", "Dá desculpas permanentemente e culpa os outros."]
+        },
+        "tips": {
+          "mental": {
+            "videos": ["js8OfeEL4jI", "pN34FNbOKXc", "bEusrD8g-dM"],
+            "reading": ["https://www.inc.com/sylvia-lafair/5-ways-to-control-ambiguity-and-uncertainty.html", "https://professional.dce.harvard.edu/blog/solving-the-problem-with-problem-solving-meetings/"]
+          },
+          "interpersonal": {
+            "videos": ["qpnNsSyDw-g"],
+            "reading": ["https://www.thebalancecareers.com/developing-effective-work-relationships-1919386#:~:text=%20The%20Top%207%20Ways%20to%20Play%20Well,you%20talk%20down%20to%20another%20employee%2C...%20More%20", "https://blog.mindvalley.com/what-are-interpersonal-skills/", "https://hbr.org/2019/11/cracking-the-code-of-sustained-collaboration"]
+          },
+          "change": {
+            "videos": ["pYGBYDgwtR8", "xJM_CQN8-ns", "ryD8lfSEGio", "N3dbHceoPzk"],
+            "reading": ["https://www.inc.com/sylvia-lafair/5-ways-to-control-ambiguity-and-uncertainty.html", "https://professional.dce.harvard.edu/blog/solving-the-problem-with-problem-solving-meetings/"]
+          },
+          "results": {
+            "videos": ["W05FYkqv7hM", "Tfrrubw7pcE", "S3CU2kOBt3s", "kKy26jP7jUc"],
+            "reading": ["https://hbr.org/2019/01/managing-when-the-future-is-unclear"]
+          },
+          "awareness": {
+            "videos": ["CDmLI4zlBH0", "J2Qrm9UB7qY", "wtl5UrrgU8c", "LnJwH_PZXnM"],
+            "reading": ["https://medium.com/@brookeanderson/10-tips-on-receiving-critical-feedback-a-guide-for-activists-e51689c59d81#:~:text=%2010%20Tips%20on%20Receiving%20Critical%20Feedback%3A%20A,sorry%20you%E2%80%99re%20upset%E2%80%9D%20does%20not%20take...%20More%20", "https://www.tlnt.com/how-to-get-honest-feedback-when-youre-the-boss/#:~:text=%20How%20to%20Get%20Honest%20Feedback%20When%20You%E2%80%99re,%E2%80%94%20This%20is%20a%20baby%20step...%20More%20", "https://hbr.org/2012/05/how-to-get-feedback-when-youre.html"]
+          }
+        },
+        "turnOnSubtitles": "ligar legendas"
+      },
+      "advise": {
+        "mental": "O uso excessivo dessa habilidade pode o levar a assumir riscos desnecessários apenas por assumi-los, ao invés de manter o interesse em gerar um impacto positivo na solução implementada.",
+        "interpersonal": "O uso excessivo dessa habilidade pode levá-lo a confiar demais em sua rede de contatos ao custo de não aprimorar outras habilidades necessárias. Ou manipular sua rede para seu próprio benefício e não para o benefício da empresa.",
+        "change": "Usar em excesso essa habilidade pode levá-lo a buscar persistentemente mudança e inovação apenas para descartar o antigo, colocando a eficiência e a lucratividade em risco. Adicionalmente, pode ser visto como um camaleão social, deixando os outros inseguros sobre sua genuinidade.",
+        "results": "O uso excessivo dessa habilidade pode fazer com que você tire conclusões precipitadas sem ter dados suficientes. Ou você pode não respeitar as necessidades de esclarecimento dos outros antes de agir.",
+        "awareness": "O uso excessivo dessa habilidade pode levar à sua autocrítica a um nível de parecer sem credibilidade ou inseguro sobre suas habilidades. Analizar e pensar excessivamente no feedback dos outros. Ou gastar muito tempo com auto-reflexão, em vez de fazer mudanças em seus comportamentos ou habilidades."
+      }
+    },
+    "watchVideo": "Assistir a este vídeo",
+    "reading": "Deixamos esta leitura",
+    "careful": "Cuidado",
+    "knowMore": "Saber mais"
+  },
+  "chart": {
+    "personality_test_title": "Perfil de personalidade preditivo",
+    "personality_test_description": "Usando seu perfil do Linkedin e a metodologia DISC, criamos seus traços da personalidade.",
+    "dominant": "Dominância",
+    "stable": "Estabilidade",
+    "conscious": "Cautela",
+    "influential": "Influência",
+    "archetype": "Arquétipo",
+    "encouragement": "O que motiva você",
+    "stress": "O que estressa você"
+  },
+  "personality-test": {
+    "dominant_text": "Pessoas com personalidade D tendem a ser confiantes e enfatizar a obtenção de resultados finais. Direto, orientado para resultados, firme, tenaz e contundente.",
+    "influential_text": "Pessoas com personalidade I tendem a ser mais abertas e dar ênfase aos relacionamentos e influenciar ou persuadir os outros. Extrovertido, entusiasmado, otimista e animado.",
+    "conscious_text": "Pessoas com personalidades C tendem a enfatizar qualidade, precisão, experiência e competência. Analítico, prudente, meticuloso, reservado e sistemático.",
+    "stable_text": "Pessoas com personalidade S tendem a ser confiáveis ​​e enfatizam a cooperação e a honestidade. Sereno, condescendente, paciente, humilde e diplomático."
+  },
+  "talent_dictionary": {
+    "mental_agility": {
+      "title": "Agilidade Mental",
+      "broad_strengths": "Geralmente somos bons aplicando nossas experiências passadas para resolver problemas, mas uma habilidade mais rara é fazer coisas inéditas. Experimentar novas soluções que nunca experimentamos antes, analisar problemas em diferentes contextos, pensar fora da caixa. Isso exige correr riscos, não buscar ser perfeito, nadar contra a corrente com paciência, persistência e a melhor atitude. É assim que você está sendo visto atualmente na empresa.",
+      "broad_risks": "O uso excessivo dessa habilidade pode levar você a assumir riscos desnecessários apenas por assumi-los, ao invés de manter o interesse em gerar um impacto positivo na solução implementada.",
+      "deep_recommendations": "Você está sendo percebido como alguém que prefere não se arriscar e, ao enfrentar problemas desconhecidos, é mais provável que procure soluções que já implementou. Isso pode acontecer por vários motivos: ser muito orientado para a perfeição, não olhar fora da caixa, estar preso no passado, não fazer uma análise profunda de sucessos e fracassos para buscar pistas sobre como resolver um novo problema. É importante que você se exponha a problemas desconhecidos e uma boa maneira de procurar soluções inovadoras é fazer muitas perguntas sobre o problema antes de correr para apresentar uma solução. Há estudos que dizem que para cada 8 soluções apresentadas para um problema, apenas 1 pergunta é feita sobre ele. Para encontrar soluções fora da caixa, invista 50% do seu tempo com perguntas e definição do problema e 50% na apresentação de soluções."
+    },
+    "people_agility": {
+      "title": "Agilidade interpessoal",
+      "broad_strengths": "Desde o início do século XXI as empresas estão cada vez mais dinâmicas, globais, existem funções centralizadas e descentralizadas, serviços partilhados, responsabilidades transversais, trabalho presencial e virtual. Esta nova forma de trabalhar fez com que as decisões fossem tomadas em equipe com base na opinião de várias pessoas em diferentes funções. Não basta com compartilhar com alguns colegas para resolver um problema. Atualmente, você é enxergado como uma pessoa que consegue manter relacionamentos em todos os níveis da organização para obter recursos, conhecimento e influenciar os tomadores de decisão.",
+      "broad_risks": "O uso excessivo dessa habilidade pode levá-lo a confiar demais em sua rede de contatos ao custo de não aprimorar outras habilidades necessárias. Ou manipular sua rede para seu próprio benefício e não para o benefício da empresa.",
+      "deep_recommendations": "Você pode estar gerenciando uma rede de contatos muito limitada na empresa, o que dificulta a obtenção de recursos, conhecimento ou ideias quando se trata de solucionar problemas ou entregar resultados com eficiência. Pode ser porque você evita a política, ter visibilidade, ou não está aberto a experimentar novas formas de fazer as coisas. Para desenvolver essa habilidade, você pode começar fazendo um mapa de relacionamento, estudar o organograma da sua empresa e identificar as pessoas-chave que podem ajudá-lo no seu trabalho, perguntar ao seu líder ou colegas quem são as pessoas que você deve conhecer e procurar ser conectado com eles(as)."
+    },
+    "change_agility": {
+      "title": "Agilidade para mudanças",
+      "broad_strengths": "As empresas precisam de pessoas flexíveis que possam se adaptar rapidamente às mudanças, que possam aproveitar sua experiência anterior e aplicar os aprendizados em situações novas e diferentes. Você é visto como aquela pessoa que gosta do desafio da mudança, que não só o segue, mas também o propõe quando há oportunidades de melhoria. Você incentiva a diversidade de pensamento para promover a inovação.",
+      "broad_risks": "Usar essa habilidade em excesso pode levá-lo a buscar persistentemente mudança e inovação apenas para descartar o antigo, colocando eficiência e lucratividade em risco.",
+      "deep_recommendations": "Em situações de mudança, você é percebido como alguém que tem dificuldade em aprender coisas novas ou fica facilmente frustrado ao se deparar com novos cenários. Você pode preferir ficar na sua zona de conforto em vez de experimentar novas maneiras de ver as coisas ou apenas tentar ações que funcionaram no passado. Aproveite para entender a dinâmica interpessoal e as mudanças de situação, será mais fácil para você perceber quando deve ser você quem deve se adaptar à mudança e não vice-versa. Lembre-se de que os resultados negativos que podem vir de uma mudança podem ser tão enriquecedores quanto os positivos devido à oportunidade de aprendizado."
+    },
+    "results_agility": {
+      "title": "Agilidade com resultados",
+      "broad_strengths": "Atualmente, existem tantas disrupções tecnológicas, de mercado ou circunstanciais que a clareza é escassa e a certeza passageira. Resolver problemas e implementar ações neste contexto volátil significa, no melhor dos casos, avançar quando o caminho for nebuloso. É assim que você é percebido na empresa, como aquela pessoa que se mantém energizada diante de situações ambíguas ou incertas e consegue avanços significativos mantendo a calma.",
+      "broad_risks": "O uso excessivo dessa habilidade pode fazer com que você tire conclusões precipitadas sem ter dados suficientes. Ou você pode não respeitar as necessidades de esclarecimento dos outros antes de agir.",
+      "deep_recommendations": "Percebem você como alguém que, em situações de incerteza ou ambigüidade, tem dificuldade em entregar resultados. Isso pode acontecer porque prefere situações bem estruturadas e previsíveis para manter o controle; ou tem uma inclinação negativa e se foca nos pontos negativos da incerteza; ou simplesmente por uma necessidade excessiva de acertar, evitando o risco de erros. Lidar confortavelmente com a incerteza e a ambigüidade significa deixar de lado sua certeza. É como pular de um trapézio para outro, onde por alguns minutos você ficará no ar sem ter certeza de pegar o próximo. Você pode se agarrar à anterior e ter certeza de não cair, mas não será capaz de avançar para a próxima plataforma."
+    },
+    "self_awareness": {
+      "title": "Consciência de si mesmo",
+      "broad_strengths": "Para se posicionar bem diante do trabalho e da vida, é preciso saber no que somos excelentes, bons, médios, ruins, o que não sabemos e o que usamos em excesso. Isto não é novidade, o fato de Sócrates ter dito - Conheça-se - e mais de 2.000 anos depois continuarmos procurando como nos conhecer, mostra a complexidade da tarefa. Você está sendo reconhecido como alguém que sabe como conectar a perspectiva externa (como os outros o veem) e a perspectiva interna (como você se vê), o que para muitos pode ser desconfortável. Essa capacidade torna você uma pessoa aberta ao feedback e sempre em busca de seu desenvolvimento.",
+      "broad_risks": "O uso excessivo dessa habilidade pode levar à sua autocrítica a um nível de parecer sem credibilidade ou inseguro sobre suas habilidades. Analizar e pensar excessivamente no feedback dos outros. Ou gastar muito tempo com auto-reflexão, em vez de fazer mudanças em seus comportamentos ou habilidades.",
+      "deep_recommendations": "Você está sendo percebido como uma pessoa que tem pouco autoconhecimento, ou seja, a percepção que você tem de si mesmo está muito distante do que os outros têm de você. Receber este tipo de feedback é desafiador e desconfortável, pode ser que você reaja de forma defensiva ou arrogante, porém somente através do feedback você será capaz de conhecer essas lacunas e trabalhá-las. Lembre-se que ninguém gosta de dar feedback negativo, procure como facilitar o trabalho dos outros assumindo uma postura reflexiva e calma. O feedback é apenas a percepção que outra pessoa tem de você, não é uma verdade absoluta, não se sinta julgado. Analise quais comportamentos levam as pessoas a tirar essa percepção indesejada e mude-os. "
+    }
+  },
+  "applyFilter": "Aplicar filtros"
+}

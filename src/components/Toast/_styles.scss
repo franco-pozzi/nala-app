@@ -1,0 +1,53 @@
+/* this component (Toast) uses SCSS in order to use toastClassName prop in ToastContainer component from react-toastify dependency
+ * NO NEED to use styled component because this is a GLOBAL component (one-time rendering)
+ */
+
+.Toastify__toast{
+  &.custom-toast {
+    position: relative;
+    min-height: 60px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 11px rgba(0,0,0,0.3);
+    color: $primary;
+
+    .toast-message-container{
+      display: flex;
+      align-items: center;
+      >div {
+        margin-left: 5px;
+      }
+    }
+
+    &.Toastify__toast--info {
+      background-color: $infoBg;
+      svg {
+        color: $infoColor;
+      }
+    }
+
+    &.Toastify__toast--success {
+      background-color: $successBg;
+      svg {
+        color: $successColor;
+      }
+    }
+
+    &.Toastify__toast--warning {
+      background-color: $warningBg;
+      svg {
+        color: $warningColor
+      }
+    }
+
+    &.Toastify__toast--error {
+      background-color: $errorBg;
+      svg {
+        color: $errorColor
+      }
+    }
+
+    .Toastify__close-button {
+      color: $primary;
+    }
+  }
+}

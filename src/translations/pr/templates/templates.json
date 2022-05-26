@@ -1,0 +1,34 @@
+{
+  "title": "Modelos",
+  "select_template": "Seleccione o modelo",
+  "selected_data": "Dados seleccionados",
+  "description": "Aqui pode escolher um modelo ou criar um modelo para fazer perguntas adicionais, solicitar documentos ou fornecer informação da empresa.",
+  "actions": {
+    "create": "Criar modelo",
+    "edit": "Editar modelo",
+    "delete": "Excluir modelo",
+    "send": "Salvar modelo",
+    "show": "Visualizar modelo"
+  },
+  "template_title": {
+    "title": "Título do modelo",
+    "label": "Título"
+  },
+  "required_documents": {
+    "title": "Documentos exigidos ao candidato",
+    "description": "Criar ou seleccionar os documentos a solicitar ao candidato.",
+    "select": "Adicionar novo documento",
+    "add": "Criar documento"
+  },
+  "additional_information": {
+    "title": "Informação adicional exigida ao candidato",
+    "description": "Criar ou seleccionar as perguntas adicionais que deseja fazer ao candidato.",
+    "select": "Adicionar nova pergunta",
+    "add": "Criar pergunta"
+  },
+  "alertMessage": {
+    "create_template": "Tem a certeza de criar o modelo.",
+    "update_template": "Tem a certeza de actualizar o modelo.",
+    "delete_template": "Tem a certeza de apagar o modelo."
+  }
+}

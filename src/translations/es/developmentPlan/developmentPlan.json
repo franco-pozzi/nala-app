@@ -1,0 +1,92 @@
+{
+  "title": "Plan Individual de Desarrollo",
+  "subtitle": "Crea acuerdos para facilitar el proceso de desarrollo de tus colaboradores.",
+  "tabs": {
+    "in-progress": "En Progreso",
+    "overview": "Overview"
+  },
+  "agreement": "Acuerdo",
+  "agreements": "acuerdos",
+  "newAgreement": "Nuevo Acuerdo",
+  "tabsOverview": {
+    "tipsForDevelopment": "Tips para su desarrollo",
+    "employeeExpectations": "Expectativas del colaborador",
+    "riskOfLoss": "Riesgo de pérdida",
+    "recommendations": "Recomendaciones"
+  },
+  "states": {
+    "pending": "Pendiente",
+    "finished": "Finalizado",
+    "archived": "Archivado"
+  },
+  "labels": {
+    "supportLinks": "Links de apoyo",
+    "peopleInvolved": "Personas involucradas"
+  },
+  "details": {
+    "thereAre": "Existen",
+    "agreementsOf": "acuerdos de",
+    "collaborators": "colaboradores"
+  },
+  "theAgreement": "el acuerdo",
+  "addLink": "Agregar otro...",
+  "searchCollaborators": "Buscar colaboradores",
+  "noTips": "No hay tips por el momento.",
+  "tipsByQuadrant": {
+    "sixth": [
+      "Con cuidado revisar requerimiento del rol actual frente a las capacidades y intereses para ver si son compatibles.",
+      "Darle feedback claro y objetivo acerca de su performance y monitorear su mejora de performance en el mes subsecuente.",
+      "En caso de mejora, mantener seguimiento mensual, y en caso de no mejorar, considera tomar la decisión de un despido."
+    ],
+    "seventh": [
+      "Con cuidado revisar requerimiento del rol actual frente a las capacidades y intereses para ver si son compatibles.",
+      "Generar un One to One con el fin de dejar claro su estatus de performance vs la expectativa y generar un plan de acción para mejorar performance.",
+      "Monitorear frecuentemente su mejora de performance y seguir retroalimentando su potencial cada 3 meses.",
+      "En caso de no mejorar, considera tomar la decisión de un despido."
+    ],
+    "eighth": [
+      "Con cuidado revisar requerimiento del rol actual frente a las capacidades y intereses para ver si son compatibles.",
+      "Proveer coaching para aumentar performance a largo plazo.",
+      "Asignar mentor/coach para desarrollar áreas de oportunidades.",
+      "Considerar darle un reto que ayude a desarrollar áreas de oportunidades.",
+      "Monitorear frecuentemente su mejora de performance y seguir retroalimentando su potencial."
+    ],
+    "third": [
+      "Poner foco en aprendizaje y desarrollo en skills avanzadas para aumento de performance de medio para alto.",
+      "Darle retroalimentación transparente de oportunidades de mejora.",
+      "Ofrecer oportunidades de mejora de habilidades técnicas y de liderazgo para rol actual.",
+      "Monitorear frecuentemente su mejora de performance y seguir retroalimentando su potencial."
+    ],
+    "fourth": [
+      "Poner foco en aprendizaje y desarrollo en skills avanzadas para aumento de performance de medio para alto.",
+      "Aumentar responsabilidades y foco de su posición actual.",
+      "Demostrar que la organización valora sus ideas y percepciones solicitando para que contribuya con su punto de vista.",
+      "Seguir probando capacidades de liderazgo.",
+      "Seguir evaluando sobre su voluntad de seguir creciendo en la compañía."
+    ],
+    "fifth": [
+      "Poner foco en el desarrollo en una competencia específica o gap de skills que pueda apoyar en crecer su performance.",
+      "Darle buena exposición y retos intenso y con mucha variedad.",
+      "Prepararle para oportunidades a largo plazo."
+    ],
+    "zero": [
+      "Ofrecer oportunidades de profundizar su conocimiento técnico y especialización de su rol o acrecentar competencias de liderazgo en su desarrollo.",
+      "Dejar como personas clave / expertos en conocimiento en sus equipos/proyectos y darle oportunidad de ser mentor de otros.",
+      "Impulsar a que sea protagonista en compartir conocimiento funcional de sus áreas de actuación con equipos internos.",
+      "Ofrecer retroalimentación directa sobre oportunidades de los avances esperados del colaborador."
+    ],
+    "first": [
+      "Mapear oportunidades de aprendizaje y desarrollo específicas para desarrollar competencias futuras.",
+      "Proveer proyectos o retos importantes y/o innovadores.",
+      "Abrir la posibilidad para que pueda mentorar otros.",
+      "Dejarlos como referentes en proyectos de change management."
+    ],
+    "second": [
+      "Mantener en roles de alta visibilidad, exposición y accountability.",
+      "Proveer proyectos o retos importantes y/o innovadores.",
+      "Ofrecer acceso a oportunidades de desarrollo estratégicas.",
+      "Abrir la posibilidad para que pueda mentorar otros.",
+      "Garantizar oportunidades de crecimiento a corto y largo plazo."
+    ]
+  }
+}

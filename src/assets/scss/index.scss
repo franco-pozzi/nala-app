@@ -1,0 +1,161 @@
+@import "./variables";
+@import "./helpers";
+@import "../../components/Toast/styles";
+@import "./gant";
+@import "./bounceLoader";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Roboto";
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #f0f0f7;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+#root {
+  height: 100%;
+}
+
+.__react_component_tooltip,
+svg {
+  font-family: "Roboto", serif !important;
+}
+.orgchart-container {
+  width: auto !important;
+}
+
+.orgchart {
+  ul {
+    li {
+      .oc-node {
+        transition: box-shadow 0.3s ease-in-out, opacity 2s linear,
+          visibility 0s 2s;
+        border-radius: 6px;
+        font-family: "Roboto", serif;
+        min-width: 200px;
+        max-width: 200px;
+        min-height: 100px;
+        max-height: 100px;
+
+        border: none !important;
+
+        .oc-edge::before {
+          color: #3f51b4 !important;
+        }
+      }
+
+      .oc-node:hover {
+        background-color: transparent !important;
+      }
+
+      .oc-node::after {
+        background-color: #3f51b4 !important;
+      }
+
+      .oc-node::before {
+        background-color: #3f51b4 !important;
+      }
+
+      ul {
+        li::before {
+          border-top: 2px solid #3f51b4 !important;
+        }
+      }
+    }
+  }
+}
+
+input:disabled,
+textarea:disabled {
+  color: #777;
+}
+
+.css-6q0nyr-Svg {
+  color: #494ecf;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgba(255, 18, 8, 0.4);
+  }
+  70% {
+    -webkit-box-shadow: 0 0 0 10px rgba(255, 18, 8, 0);
+  }
+  100% {
+    -webkit-box-shadow: 0 0 0 0 rgba(255, 18, 8, 0);
+  }
+}
+@keyframes pulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 rgba(255, 18, 8, 0.4);
+    box-shadow: 0 0 0 0 rgba(255, 18, 8, 0.4);
+  }
+  70% {
+    -moz-box-shadow: 0 0 0 10px rgba(255, 18, 8, 0);
+    box-shadow: 0 0 0 10px rgba(255, 18, 8, 0);
+  }
+  100% {
+    -moz-box-shadow: 0 0 0 0 rgba(255, 18, 8, 0);
+    box-shadow: 0 0 0 0 rgba(255, 18, 8, 0);
+  }
+}
+
+//fadeIn Animation
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

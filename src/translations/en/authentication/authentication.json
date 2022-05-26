@@ -1,0 +1,42 @@
+{
+  "title": "Discover talent and boost it",
+  "subtitle": "Get the right tools to boost your team's potential.",
+  "sign_in": "Sign In",
+  "welcome": "Hello, welcome",
+  "sign_in_with_google": "Sign In with Gmail",
+  "email": "Email",
+  "password": "Password",
+  "forgotten_password_question": "Forgot password?",
+  "free_text": "2 months free",
+  "no_credit_card": "No credit card required",
+  "no_account": "No account?",
+  "register_now": "Register now",
+  "or": "Or",
+  "create_password": "Create password",
+  "password_dont_match": "Password do not match",
+  "recover_password": {
+    "send_instructions": "Send instructions",
+    "instructions_message": "We sent the instructions to your email:",
+    "recover_password": "Recover password",
+    "same_passwords_validation": "Passwords must match",
+    "validate_password_lenght": "Password must have 8-16 characters",
+    "repeat_password": "Repeat password",
+    "save_changes": "Save changes",
+    "your_email": "Your email",
+    "successfully_recover": "Your password was recovered successfully. Sign in again!",
+    "validate_password_max_length": "Must contain less than 16 characters"
+  },
+  "change_password": {
+    "actual_password": "Actual password",
+    "new_password": "New password",
+    "new_password_confirmation": "Repeat new password",
+    "change_password": "Change password",
+    "cancel": "Cancel",
+    "change_your_password": "Change your password!",
+    "error_actual_password": "Your actual password is incorrect"
+  },
+  "password_created_successfully": "Password was created successfully",
+  "invalid_token_password_created": "Your token is invalid, request to recover password",
+  "token_expired": "Your token has expired",
+  "password_create_successfully": "The password was created successfully"
+}

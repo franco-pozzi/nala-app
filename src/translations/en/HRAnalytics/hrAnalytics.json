@@ -1,0 +1,10 @@
+{
+  "title": "HR Analytics",
+  "beta-title": "Analytics Beta",
+  "charts": {
+    "HCEvolution": "HC Evolution",
+    "FTC_CTCMonth": "Forecast Payroll Evolution",
+    "FTC": "Forecast Payroll Evolution",
+    "CTCMonth": "Payroll Evolution"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "createAudience": "Criar uma audiência",
+  "description": "Criar um grupo personalizado de utilizadores para acompanhar, enviar inquéritos ou criar relatórios.",
+  "copyCollaborators": "Copie e cole a lista de correio dos utilizadores que pretende adicionar aqui:",
+  "fields": {
+    "nameAudience": "Nome do audiência",
+    "email": "Correio electrónico"
+  },
+  "validate": {
+    "actives": "colaboradores adicionais",
+    "inactives": "não encontrado como activo",
+    "noExist": "não existem"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "accountDetails": {
+    "title": "Perfil",
+    "job_information": "Información Laboral",
+    "edit_info": "Editar información básica",
+    "salary_information": "Información salarial",
+    "edit_salary": "Editar información del salario",
+    "edit_message": "La información editada el colaborador lo visualizará en su perfil, pero no se reflejarán en su Históricos de Movimientos.",
+    "promote_message": "La información modificada se presentara en históricos de movimientos ubicado en la sección de Salario, así el colaborador pueda visualizar todos los movientos realizados por la organización. ",
+    "salary_increase_message": "La información modificada se presentara en históricos de movimientos, así el colaborador pueda visualizar todos los movientos realizados por la organización.",
+    "contract_relationship_message": "Se debe asignar relación laboral en el administrador de tipos de contrato",
+    "sure_about": "Estas seguro que quieres guardar los cambios de: ",
+    "sure_about_cancel": "Estas seguro que quieres cancelar los cambios de: ",
+    "movementHistoryMessage": "Recuerda que esta información se visualiza en el histórico de movimientos",
+    "all_required": "Todos los campos son requeridos",
+    "description": "",
+    "benefits": {
+      "title": "Beneficios",
+      "description": "",
+      "monthlyPaymentAverage": "Costo promedio Mensual",
+      "add_title": "Agregar tipo de beneficio",
+      "add_message": "¿No encontraste el tipo de beneficio en la lista? por favor, agrégalo",
+      "edit_message": "¿Estas seguro que quieres guardar los cambios de Beneficios?",
+      "benefit_type": "Tipo beneficio",
+      "add": "Agregar beneficio",
+      "edit": "Editar beneficios",
+      "select": "Seleccione un beneficio",
+      "paymentFrequency": "Frecuencia de pago"
+    },
+    "payrollHistory": {
+      "title": "Histórico de nómina",
+      "description": ""
+    },
+    "collaborator_active_status": "Colaborador activo",
+    "collaborator_inactive_status": "Colaborador inactivo",
+    "payrollProjection": {
+      "local": "Proyección costo nómina (Moneda Local)",
+      "usd": "Proyección costo nómina (USD)"
+    },
+    "promote": "Promoción",
+    "lateral_movement": "Movimiento lateral",
+    "salary_increase": "Aumento de salario por mérito",
+    "allowNoManager": "Permitir colaborador sin lider"
+  },
+  "addRoles":{
+    "title": "Agrega o edita roles",
+    "subtitle": "Puedes asignar roles adicionales a cada usuario",
+    "rolesAssigned": "Roles Asignados",
+    "rolLevel": "Nivel del rol"
+  },
+  "accountDocuments": {
+    "general_title": "Documentos",
+    "my_general_title": "Mis Documentos",
+    "upload_document": "Subir Documento",
+    "upload_document_detail": "Selecciona un documento que sea visible para el colaborador, se le enviará una notificación al correo electrónico para informarle sobre el documento",
+    "document_title": "Título Documento",
+    "select_document": "Seleccionar Documento",
+    "select_document_type": "Seleccionar tipo de documento",
+    "add_new_document_type": "Agregar nuevo tipo de documento",
+    "filename": "Nombre del archivo",
+    "hidden": "Oculto",
+    "update": "Editar",
+    "edit": "Editar documento",
+    "table": {
+      "no_records": "Sin registros que mostrar",
+      "table-head": {
+        "name": "Nombre documento",
+        "type": "Tipo documento",
+        "date": "Fecha",
+        "uploaded_by": "Subido por",
+        "hidden": "Oculto",
+        "actions": "Acciones"
+      },
+      "table-body": {
+        "view_document": "Ver documento",
+        "download_document": "Descargar",
+        "replace_document": "Reemplazar",
+        "delete_document": "Eliminar documento",
+        "edit_document": "Editar documento",
+        "yes": "Si",
+        "no": "No"
+      },
+      "footer-table": {
+        "rows-per-page": "Filas por página"
+      }
+    }
+  },
+  "movementsHistory": {
+    "title": "Histórico de movimientos",
+    "date": "Fecha",
+    "position": "Cargo",
+    "salary": "Salario",
+    "type": "Tipo",
+    "reason": "Razón",
+    "comments": "Comentarios",
+    "rehiring": "Recontratación",
+    "finishContract": "Desvinculación",
+    "Promotion": "Promoción",
+    "LateralMovement": "Movimiento Lateral",
+    "SalaryRaise": "Aumento de sueldo por mérito",
+    "Turnover": "Desvinculación",
+    "hiring": "Contratación",
+    "voluntary": "Voluntario",
+    "involuntary": "Involuntario",
+    "Rehire": "Recontratación",
+    "start": "Inicio"
+  }
+}

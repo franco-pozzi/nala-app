@@ -1,0 +1,61 @@
+{
+  "viewTitle": "Férias",
+  "tabs": {
+    "personal": "Pessoal",
+    "team": "Equipe"
+  },
+  "excel": {
+    "Personal id": "Identidade",
+    "Name": "Nome",
+    "Email": "Email",
+    "Manager name": "Lider",
+    "Starting date": "Data desde",
+    "Finish date": "Data até",
+    "Number of calendar days": "Número de dias corridos",
+    "Number of business days": "Número de dias úteis",
+    "Type": "Modelo",
+    "Reason": "Motivo",
+    "State": "Estado",
+    "download-excel": "Baixar Excel"
+  },
+  "search_collaborators": "Pesquisar colaboradores",
+  "Manage_request": {
+    "Accept": "Sim, tenho certeza",
+    "Reject": "Não, cancelar",
+    "Title": "¿Você tem certeza?",
+    "SubtitleReject": "Tem certeza de rejeitar o pedido.",
+    "SubtitleAccept": "Tem certeza de aceitar o pedido.",
+    "SubtitleDelete": "Tem certeza de eliminar o pedido.",
+    "Pending": "Pendente",
+    "Approved": "Aprovado",
+    "RejectionReason" : "Motivo de rejeição"
+  },
+  "states": {
+    "pending": "Pendente",
+    "rejected": "Rejeitado",
+    "approved": "Aprovado",
+    "approved_by_leader": "Aprovado pelo Líder"
+  },
+  "types": {
+    "vacations": "Férias",
+    "medical_license": "Licença Médica",
+    "permission": "Permissão"
+  },
+  "document": "Documento",
+  "under_construction": {
+    "title": "Módulo em construção",
+    "message": "Por enquanto, você receberá notificações de sua solicitação de folga por e-mail",
+    "comingSoon": "Em breve"
+  },
+  "from": "A partir de",
+  "to": "Até",
+  "whoIsFree": "Quem está de folga da equipa?",
+  "typeOfAbsence": "Tipo de ausência",
+  "history": "Histórico de folgas",
+  "editTimeOffTitle": "Editar pedido",
+  "overallStatus": {
+    "confirmed": "Confirmado",
+    "toBeConfirmed": "A confirmar",
+    "enjoyed": "Gozado"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Configurações",
+  "subtitle": "Configurações Gerais",
+  "modules": {
+    "units": {
+      "title": "Unidades",
+      "singular_title": "Unidad",
+      "subtitle": "Adicione aqui as unidades da empresa, por exemplo; departamento e área.",
+      "collaborators": "colaboradores pertencem a esta unidade",
+      "move": "mover unidade",
+      "relocate_title": "Eliminar Unidade",
+      "relocate_subtitle": "Ao eliminar a Unidade, você deve realocar os colaboradores para outra unidade.",
+      "alert_message": "Nos vamos enviar um e-mail quando o processo fique concluído"
+    },
+    "surveys": {
+      "title": "Pesquisas",
+      "subtitle": "Aqui você pode controlar as pesquisas",
+      "submodule": {
+        "title": "Pesquisa"
+      },
+      "button_name": "Criar pesquisa",
+      "actions": {
+        "new": {
+          "title": "Criar pesquisa",
+          "subtitle": "Aqui você pode criar um processo de pesquisa"
+        },
+        "edit": {
+          "title": "Aqui você pode editar o processo de pesquisa",
+          "subtitle": "Aquí podrás editar el proceso de encuesta"
+        },
+        "preview": {
+          "title": "Visualizar avaliações do processo de pesquisa",
+          "subtitle": "Aqui você pode visualizar as avaliações do processo de pesquisa"
+        }
+      }
+    },
+    "contract-types": {
+      "title": "Tipo de contratos",
+      "singular_title": "tipo de contrato",
+      "subtitle": "Adicione aqui os tipos de contratos da empresa, por exemplo: CLT, PJ, Aprendiz etc.",
+      "collaborators": "Colaboradores têm este tipo de contrato"
+    },
+    "cities": {
+      "title": "Cidades",
+      "singular_title": "Cidade",
+      "subtitle": "Adicione a cidade, por exemplo: Buenos Aires, Bogotá, etc.",
+      "move": "mova colaboradores da cidade"
+    },
+    "positions": {
+      "title": "Posições",
+      "singular_title": "Posição",
+      "subtitle": "Adicione uma posição, por exemplo: Líder Técnico, Engenheiro de Software, etc.",
+      "collaborators": "Colaboradores têm esta posição atribuída",
+      "relocate_title": "Eliminar posição",
+      "relocate_subtitle": "Ao eliminar a posição, você deve realocar os colaboradores para outra posição",
+      "alert_message": "Vamos enviar um e-mail quando o processo fique concluído"
+    },
+    "contract_types": "Tipos de contrato",
+    "benefits": "Benefícios",
+    "companies": "Empresas",
+    "finish_contract_reasons": "Motivos de saída",
+    "cost_center": "Centro de custo",
+    "additional_fields": "Campos adicionais"
+  },
+  "table": {
+    "create_date": "Data de criação",
+    "collaborators": "Colaborador",
+    "actions": {
+      "main": "Ações",
+      "edit": "Editar",
+      "collaborators": "Colaboradores",
+      "delete": "Eliminar",
+      "send": "Enviar processo",
+      "send_reminder": "Mande um lembrete",
+      "move": "Mover",
+      "preview": "Visualizar"
+    }
+  }
+}

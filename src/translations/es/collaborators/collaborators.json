@@ -1,0 +1,111 @@
+{
+  "title": "Colaboradores",
+  "sub_title": "Aquí están todos los colaboradores de tu empresa, incluyendo los desvinculados",
+  "selected-collaborators": "Seleccionado",
+  "search": "Buscar",
+  "row": "Filas",
+  "table": {
+    "no_records": "No hay registros que mostrar",
+    "sub-title": "Colaboradores",
+    "table-head": {
+      "full_name": "Nombre",
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "country": "País de Residencia",
+      "city": "Ciudad",
+      "position_name": "Cargo",
+      "position": "Cargo",
+      "starting_date": "Fecha de inicio",
+      "termination_date": "Fecha de desvinculación",
+      "company_id": "ID Empresa",
+      "manager_name": "Líder",
+      "manager": "Líder",
+      "department": "Departamento",
+      "manager_evaluation": "Evaluación jefe",
+      "self_evaluation": "Autoevaluación",
+      "pairs": "Pares",
+      "collaborators": "Equipo",
+      "total_evaluation": "Evaluación total",
+      "leadership_skills": "Habilidades de liderazgo",
+      "actions": "Acciones",
+      "potential": "Potencial",
+      "personal_id": "No. Documento de Identidad",
+      "location": "Localidad",
+      "starting_end_date": "Fecha inicio / término"
+    },
+    "table-body": {
+      "view_profile": "Ver Perfil",
+      "edit_profile": "Editar Perfil",
+      "finish_contract": "Desvincular",
+      "start_contract": "Vincular"
+    },
+    "footer-table": {
+      "Rows-Per-Page": "Filas Por Páginas"
+    },
+    "excel": {
+      "payroll_month": "Mes de nómina",
+      "termination_date": "Fecha de salida",
+      "type_termination": "Tipo de desvinculación",
+      "reason_termination": "Razón de salida",
+      "comment_termination": "Comentario de la desvinculación",
+      "email_corp": "Email corporativo",
+      "manager_personal_id": "Documento de Identidad líder",
+      "manager_name": "Nombre Líder",
+      "hierarchy_level": "Nível Jerárquico",
+      "contract_type": "Tipo de contrato",
+      "company_name": "Compañía",
+      "country": "País de Residencia",
+      "city": "Ciudad",
+      "department": "Departamento",
+      "area": "Área",
+      "subarea": "Sub-área",
+      "cost_center": "Centro de costo",
+      "birth_date": "Fecha de nacimiento",
+      "gender": "Género",
+      "currency_type": "Tipo de Moneda",
+      "gross_salary": "Salario Bruto",
+      "projected_ctc": "Costo nómina Proyectada",
+      "projected_ctc_usd": "Costo nómina Proyectada (USD)",
+      "health_benefit": "Seguro médico",
+      "food_benefit": "Vale comida",
+      "dental_benefit": "Seguro odontologico",
+      "life_benefit": "Seguro de vida",
+      "termination_type_voluntary": "Voluntario",
+      "termination_type_involuntary": "Involuntario",
+      "status": "Estado"
+    }
+  },
+  "forms": {
+    "title": "Crear Colaborador",
+    "finish_contract_title": "Desvincular colaborador",
+    "finish_contract_subtitle_relocate":"Al desvincular a un colaborador debes reubicar a los colaboradores a otro lider",
+    "termination_date": "Fecha de desvinculación",
+    "termination_type": "Tipo de desvinculación",
+    "termination_type_voluntary": "Voluntario",
+    "termination_type_involuntary": "Involuntario",
+    "termination_reason": "Razón de la desvinculación",
+    "termination_comments": "Comentario de la desvinculación (Opcional)"
+  },
+  "tabs": {
+    "all": "Colaboradores",
+    "hiring": "En contratación",
+    "inactive": "Inactivo",
+    "active": "Activo"
+  },
+  "buttons": {
+    "create_collaborator": "Crear Colaborador",
+    "actions": "Acciones",
+    "cancel": "Cancelar",
+    "save_edit": "Guardar cambios"
+  },
+  "audiences": "Audiencias",
+  "audienceOptions": {
+    "create": "Crear"
+  },
+  "errors":{
+    "termination_date": "No se puede desvincular con una fecha futura"
+  },
+  "success": {
+    "termination_date": "Desvinculación exitosa"
+  }
+}

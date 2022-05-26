@@ -1,0 +1,11 @@
+import {
+  COMPANY_ID_PARAM,
+  API_URL_RAILS_V1,
+  SURVEY_PROCESS_TYPE,
+} from "../../constants";
+
+const ENGAGEMENT_PROCESSES = SURVEY_PROCESS_TYPE.engagement;
+const ENGAGEMENT_PROCESSES_URL = `${API_URL_RAILS_V1}/${ENGAGEMENT_PROCESSES.value}`;
+
+export const GET_ENGAGEMENT_PROCESSES_URL = (companyId) => `${ENGAGEMENT_PROCESSES_URL}${COMPANY_ID_PARAM(companyId)}`;
+export const GET_RESULTS_BY_DEPARTMENT_URL = (id, type, companyId) => `${ENGAGEMENT_PROCESSES_URL}/${id}/${type}${COMPANY_ID_PARAM(companyId)}`;

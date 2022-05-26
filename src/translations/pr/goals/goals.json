@@ -1,0 +1,17 @@
+{
+  "title": "Metas",
+  "subtitle": "Aqui você pode acompanhar seus objetivos.",
+  "tabs": {
+    "in-progress": "Em progresso",
+    "archived": "Arquivado"
+  },
+  "alert": {
+    "title": "Importante",
+    "text": "Quando você adiciona seus objetivos na soma total dos pesos, deve dar um total de 100%",
+    "warning": "Lembre-se que o peso total dos objetivos deve somar um total de 100%, você pode aumentar um dos pesos ou adicionar outro objetivo.",
+    "error": "Erro, o total dos pesos soma mais que o permitido, lembre-se que deve somar um total de 100%.",
+    "ruleValidation": "Verifique o valor inserido, possivelmente há um erro."
+  },
+  "objectives": "Objetivos",
+  "total": "Total"
+}

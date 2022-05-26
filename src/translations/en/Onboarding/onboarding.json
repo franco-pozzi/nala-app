@@ -1,0 +1,40 @@
+{
+  "title": "Onboarding",
+  "send": "Send Onboarding",
+  "saveButton": "Save",
+  "cancelButton": "Cancel",
+  "massiveTitle": "Onboarding massive",
+  "documentRequired": "Document required",
+  "document": "Document",
+  "addDocumentToList": "Add document to the list",
+  "documentTitle": "Create document",
+  "addDocument": "Add document",
+
+  "fieldTitle": "Create Field",
+  "fieldRequired": "Field required",
+  "field": "Field",
+  "addFieldToList": "Add field to the list",
+  "error": {
+    "alert_title": "Form error",
+    "email_is_already_in_use": "Email is already in use"
+  },
+  "addField": "Add Field",
+  "salary_information_title": "Salary information",
+  "personal_information_title": "Personal information",
+  "candidate_information_title": "Candidate Information",
+  "job_information_title": "Job information",
+  "fill_required_fields": "Please fill required fields",
+  "required_documents": {
+    "title": "Documents required from the candidate",
+    "description": "Create or select a document to be submitted to the candidate.",
+    "select": "Add new document",
+    "add": "Create document"
+  },
+  "additional_information": {
+    "title": "Additional information required from the candidate",
+    "description": "Create or select the additional questions you want to ask the candidate.",
+    "select": "Add new question",
+    "add": "Create new question"
+  },
+  "required": "Required"
+}

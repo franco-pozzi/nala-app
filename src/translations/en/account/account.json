@@ -1,0 +1,108 @@
+{
+  "accountDetails": {
+    "title": "Profile",
+    "job_information": "Job Information",
+    "edit_info": "Edit basic information",
+    "salary_information": "Salary Information",
+    "edit_salary": "Edit salary information",
+    "edit_message": "The modified information will be displayed on the employee profile, but will not be reflected in his/her Movement History.",
+    "promote_message": "The modified information is available in the Movements History located in the Salary section, so the employee can see all the movements made by the organization.",
+    "salary_increase_message": "The modified information is available in the Movements History located in the Salary section, so the employee can see all the movements made by the organization.",
+    "contract_relationship_message": "Employment relationship must be assigned in the General Administrator in Contract types",
+    "sure_about": "Are you sure you want to save the changes of: ",
+    "sure_about_cancel": "Are you sure you want to cancel the changes of: ",
+    "movementHistoryMessage": "Remember that this information is displayed in Movements History",
+    "all_required": "All fields are required",
+    "description": "",
+    "benefits": {
+      "title": "Benefits",
+      "description": "",
+      "monthlyPaymentAverage": "Average monthly cost",
+      "add_title": "Add benefit type",
+      "add_message": "Didn't find the type of benefit in the list? please add it",
+      "edit_message": "Are you sure you want to save the change of Benefits",
+      "benefit_type": "Benefit type",
+      "add": "Add benefit",
+      "edit": "Edit benefits",
+      "select": "Select a benefit",
+      "paymentFrequency": "Payment Frequency"
+    },
+    "payrollHistory": {
+      "title": "Payroll History",
+      "description": ""
+    },
+    "collaborator_active_status": "Active employee",
+    "collaborator_inactive_status": "Inactive employee",
+    "payrollProjection": {
+      "local": "Payroll cost projection (Local currency)",
+      "usd": "Payroll cost projection (USD)"
+    },
+    "promote": "Promotion",
+    "lateral_movement": "Lateral movement",
+    "salary_increase": "Merit salary increase",
+    "allowNoManager": "Allow employee without leader"
+  },
+  "addRoles":{
+    "title": "Add or edit roles",
+    "subtitle": "You can assign additional roles to each user",
+    "rolesAssigned": "Assigned Roles",
+    "rolLevel": "Role level"
+  },
+  "accountDocuments": {
+    "general_title": "Documents",
+    "my_general_title": "My Documents",
+    "upload_document": "Upload Document",
+    "upload_document_detail": "Select a document that is visible to the employee, a notification will be sent to the email",
+    "document_title": "Document Title",
+    "select_document": "Select Document",
+    "select_document_type": "Select document type",
+    "add_new_document_type": "Add new document type",
+    "filename": "Filename",
+    "hidden": "Private",
+    "update": "Update",
+    "edit": "Edit document",
+    "table": {
+      "no_records": "No records to display",
+      "table-head": {
+        "name": "Document Name",
+        "type": "Document Type",
+        "date": "Date",
+        "uploaded_by": "Uploaded by",
+        "hidden": "Private",
+        "actions": "Actions"
+      },
+      "table-body": {
+        "view_document": "View document",
+        "download_document": "Download",
+        "replace_document": "Replace",
+        "delete_document": "Delete document",
+        "edit_document": "Edit document",
+        "yes": "Yes",
+        "no": "No"
+      },
+      "footer-table": {
+        "rows-per-page": "Rows per page"
+      }
+    }
+  },
+  "movementsHistory": {
+    "title": "Movement history",
+    "date": "Date",
+    "position": "Position",
+    "salary": "Salary",
+    "type": "Type",
+    "reason": "Reason",
+    "comments": "Comments",
+    "rehiring": "Rehire",
+    "finishContract": "Finish Contract",
+    "Promotion": "Promotion",
+    "LateralMovement": "Lateral Movement",
+    "SalaryRaise": "Salary Increase",
+    "Turnover": "Turnover",
+    "hiring": "Hire",
+    "voluntary": "Voluntary",
+    "involuntary": "Involuntary",
+    "Rehire": "Rehire",
+    "start": "Start"
+  }
+}

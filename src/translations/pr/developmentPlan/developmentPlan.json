@@ -1,0 +1,92 @@
+{
+  "title": "Plano de Desenvolvimento Individual",
+  "subtitle": "Criar acordos para facilitar o processo de desenvolvimento dos seus empregados.",
+  "tabs": {
+    "in-progress": "Em progresso",
+    "overview": "Overview"
+  },
+  "agreement": "Acordo",
+  "agreements": "acordos",
+  "newAgreement": "Novo Acordo",
+  "tabsOverview": {
+    "tipsForDevelopment": "Dicas para o desenvolvimento",
+    "employeeExpectations": "Expectativas dos empregados",
+    "riskOfLoss": "Risco de perda",
+    "recommendations": "Recomendações"
+  },
+  "states": {
+    "pending": "Pendente",
+    "finished": "Acabado",
+    "archived": "Arquivado"
+  },
+  "labels": {
+    "supportLinks": "Ligações de apoio",
+    "peopleInvolved": "Pessoas envolvidas"
+  },
+  "details": {
+    "thereAre": "Há",
+    "agreementsOf": "acordos de",
+    "collaborators": "colaboradores"
+  },
+  "theAgreement": "o acordo",
+  "addLink": "Acrescentar outra...",
+  "searchCollaborators": "Procura de parceiros",
+  "noTips": "sem dicas neste momento.",
+  "tipsByQuadrant": {
+    "sixth": [
+      "Rever cuidadosamente os actuais requisitos de papel em relação às competências e interesses para ver se são compatíveis.",
+      "Dar um feedback claro e objectivo sobre o seu desempenho e monitorizar a sua melhoria no mês seguinte.",
+      "Em caso de melhoria, manter o acompanhamento mensal, e em caso de não haver melhoria, considerar tomar uma decisão sobre o despedimento."
+    ],
+    "seventh": [
+      "Rever cuidadosamente os actuais requisitos de papel em relação às competências e interesses para ver se são compatíveis.",
+      "Gerar um para um a fim de tornar claro o seu estado de desempenho vs. expectativa e gerar um plano de acção para melhorar o desempenho.",
+      "Monitorizar frequentemente a sua melhoria de desempenho e continuar a alimentar o seu potencial de 3 em 3 meses.",
+      "No caso de não haver melhorias, considerar tomar uma decisão de despedimento."
+    ],
+    "eighth": [
+      "Rever cuidadosamente os actuais requisitos de papel em relação às competências e interesses para ver se são compatíveis.",
+      "Providenciar coaching para aumentar o desempenho a longo prazo.",
+      "Designar mentor/treinador para desenvolver áreas de oportunidade.",
+      "Considere dar-lhe um desafio para ajudar a desenvolver áreas de oportunidade.",
+      "Monitorizar frequentemente a sua melhoria de desempenho e continuar a alimentar o seu potencial."
+    ],
+    "third": [
+      "Foco na aprendizagem e desenvolvimento de competências avançadas para aumentar o desempenho de médio para alto.",
+      "Dar um feedback transparente sobre as oportunidades de melhoria.",
+      "Oferecer oportunidades para melhorar as competências técnicas e de liderança para o papel actual.",
+      "Monitorizam frequentemente a sua melhoria de desempenho e continuam a alimentar o seu potencial."
+    ],
+    "fourth": [
+      "Foco na aprendizagem e desenvolvimento de competências avançadas para aumentar o desempenho de médio para alto.",
+      "Aumentar as responsabilidades e o foco da posição actual.",
+      "Demonstrar que a organização valoriza as suas ideias e conhecimentos, pedindo-lhe que contribua com o seu ponto de vista.",
+      "Continue a testar as suas capacidades de liderança.",
+      "Continue a avaliar a sua vontade de continuar a crescer na empresa."
+    ],
+    "fifth": [
+      "Concentrar-se no desenvolvimento de uma competência específica ou de um défice de competências que possa apoiar o seu crescimento de desempenho.",
+      "Dar-lhe boa exposição e desafios intensos com muita variedade.",
+      "Prepara-os para oportunidades a longo prazo."
+    ],
+    "zero": [
+      "Oferecer oportunidades para aprofundar os seus conhecimentos técnicos e especialização do seu papel ou aumentar as competências de liderança no seu desenvolvimento.",
+      "Partir como pessoas-chave/conhecidos especialistas nas suas equipas/projectos e dar-lhes oportunidades para orientarem outros.",
+      "Incentivá-los a assumir a liderança na partilha de conhecimentos funcionais das suas áreas de operação com as equipas internas.",
+      "Fornecer feedback directo sobre oportunidades para o progresso esperado do empregado."
+    ],
+    "first": [
+      "Mapear oportunidades específicas de aprendizagem e desenvolvimento para desenvolver competências futuras.",
+      "Fornecer projectos ou desafios significativos e/ou inovadores.",
+      "Abrir-lhes a possibilidade de servir de mentores a outros.",
+      "Deixe-os como referência em projectos de gestão da mudança."
+    ],
+    "second": [
+      "Mantê-los em papéis de alta visibilidade, exposição e responsabilidade.",
+      "Fornecer projectos ou desafios importantes e/ou inovadores.",
+      "Oferecer acesso a oportunidades de desenvolvimento estratégico.",
+      "Abra-lhe a possibilidade de servir de mentor a outros.",
+      "Assegurar oportunidades de crescimento a curto e longo prazo."
+    ]
+  }
+}

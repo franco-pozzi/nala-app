@@ -1,0 +1,15 @@
+{
+  "fields": {
+    "email": "Email",
+    "password": "ConfirmaÇão Da Senha",
+    "password_confirmation": "Senha"
+  },
+  "validations": {
+    "required": "requerida",
+    "password_dont_match": "Senha não corresponde",
+    "minLength": "Necesita ser de al menos 8 caracteres"
+  },
+  "messages":{
+    "someFieldsRequired": "Alguns campos são obrigatórios"
+  }
+}

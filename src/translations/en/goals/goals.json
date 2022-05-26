@@ -1,0 +1,17 @@
+{
+  "title": "Goals",
+  "subtitle": "Here you can keep track of your goals.",
+  "tabs": {
+    "in-progress": "In progress",
+    "archived": "Archived"
+  },
+  "alert": {
+    "title": "Important",
+    "text": "When you add your goals in the total sum of the weights it should give a 100% total",
+    "warning": "Remember that the total weight of the objectives must add up to a total of 100%, you can increase one of the weights or add another objective.",
+    "error": "Error, the total of the weights adds more than what is allowed, remember that it must add a total of 100%.",
+    "ruleValidation": "Check the entered value, possibly there is an error."
+  },
+  "objectives": "Objectives",
+  "total": "Total"
+}

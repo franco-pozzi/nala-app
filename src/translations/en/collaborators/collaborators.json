@@ -1,0 +1,111 @@
+{
+  "title": "Employees",
+  "sub_title": "Here is all employees of your company, including the inactive ones",
+  "selected-collaborators": "Selected",
+  "search": "Search",
+  "row": "Rows",
+  "table": {
+    "no_records": "No records to display",
+    "sub-title": "Employees",
+    "table-head": {
+      "full_name": "Name",
+      "name": "Name",
+      "email": "E-mail",
+      "country": "Country",
+      "city": "Location",
+      "position_name": "Position",
+      "position": "Position",
+      "starting_date": "Starting Date",
+      "termination_date": "Finish Date",
+      "company_id": "Company ID",
+      "manager_name": "Manager",
+      "manager": "Manager",
+      "department": "Department",
+      "manager_evaluation": "Manager evaluation",
+      "self_evaluation": "Self evaluation",
+      "pairs": "Peers",
+      "collaborators": "Team",
+      "total_evaluation": "Total evaluation",
+      "leadership_skills": "Leadership skills",
+      "actions": "Actions",
+      "potential": "Potential",
+      "personal_id": "Personal ID",
+      "location": "Location",
+      "starting_end_date": "start / end date"
+    },
+    "table-body": {
+      "view_profile": "View profile",
+      "edit_profile": "Edit profile",
+      "finish_contract": "Finish Contract",
+      "start_contract": "Start Contract"
+    },
+    "footer-table": {
+      "Rows-Per-Page": "Rows Per Page"
+    },
+    "excel": {
+      "payroll_month": "Payroll month",
+      "termination_date": "Termination date",
+      "type_termination": "Type of termination",
+      "reason_termination": "Reason termination",
+      "comment_termination": "Comment on termination",
+      "email_corp": "Corporate email",
+      "manager_personal_id": "Manager personal ID",
+      "manager_name": "Manager name",
+      "hierarchy_level": "Hierarchy level",
+      "contract_type": "Contract type",
+      "company_name": "Company name",
+      "country": "Country",
+      "city": "City",
+      "department": "Department",
+      "area": "Area",
+      "subarea": "Sub-area",
+      "cost_center": "Cost center",
+      "birth_date": "Birth date",
+      "gender": "Gender",
+      "currency_type": "Currency type",
+      "gross_salary": "Gross salary",
+      "projected_ctc": "Projected payroll",
+      "projected_ctc_usd": "Projected payroll (USD)",
+      "health_benefit": "Health insurance",
+      "food_benefit": "Food benefit",
+      "dental_benefit": "Dental insurance",
+      "life_benefit": "Life insurance",
+      "termination_type_voluntary": "Voluntary",
+      "termination_type_involuntary": "Involuntary",
+      "status": "Status"
+    }
+  },
+  "forms": {
+    "title": "Create Employee",
+    "finish_contract_title": "Employee contract termination",
+    "finish_contract_subtitle_relocate": "When you finish a collaborator´s contract you must relocate the collaborators to another leader",
+    "termination_date": "Termination date",
+    "termination_type": "Termination type",
+    "termination_type_voluntary": "Voluntary",
+    "termination_type_involuntary": "Involuntary",
+    "termination_reason": "Termination reason",
+    "termination_comments": "Termination comments (Optional)"
+  },
+  "tabs": {
+    "all": "Collaborators",
+    "hiring": "Hiring",
+    "inactive": "Inactive",
+    "active": "Active"
+  },
+  "buttons": {
+    "create_collaborator": "Create Employee",
+    "actions": "Actions",
+    "cancel": "Cancel",
+    "save_edit": "Save changes"
+  },
+  "audiences": "Audiences",
+  "audienceOptions": {
+    "create": "Create"
+  },
+  "errors":{
+    "termination_date": "Cannot terminate contract with a future date"
+  },
+  "success": {
+    "termination_date": "Successful contract termination"
+  }
+}

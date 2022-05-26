@@ -1,0 +1,14 @@
+{
+  "createAudience": "Create an audience",
+  "description": "Create a custom group of users to track, send surveys or create reports.",
+  "copyCollaborators": "Copy and paste here the mailing list of users you want to add:",
+  "fields": {
+    "nameAudience": "Audience name",
+    "email": "Email address"
+  },
+  "validate": {
+    "actives": "added collaborators",
+    "inactives": "not found as active",
+    "noExist": "do not exist"
+  }
+}

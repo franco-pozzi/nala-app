@@ -1,0 +1,83 @@
+{
+  "title": "Configuraciones",
+  "subtitle": "Configuraciones Generales",
+  "modules": {
+    "units": {
+      "title": "Unidades",
+      "singular_title": "Unidad",
+      "subtitle": "Aquí añade las unidades de la compañía por ejemplo: departamento y área.",
+      "collaborators": "colaboradores pertenecen a esta unidad",
+      "move": "Mover unidad",
+      "relocate_title": "Eliminar Unidad",
+      "relocate_subtitle": "Al eliminar Unidad debes reubicar a los colaboradores a otra unidad.",
+      "alert_message": "Enviaremos un email cuando el proceso se complete"
+    },
+    "surveys": {
+      "title": "Encuestas",
+      "subtitle": "Aquí podrás manejar los procesos de encuesta",
+      "submodule": {
+        "title": "Proceso de encuesta"
+      },
+      "button_name": "Crear proceso de encuesta",
+      "actions": {
+        "new": {
+          "title": "Crear proceso",
+          "subtitle": "Aquí podrás crear un proceso de encuesta"
+        },
+        "edit": {
+          "title": "Editar proceso",
+          "subtitle": "Aquí podrás editar el proceso de encuesta"
+        },
+        "preview": {
+          "title": "Previsualizar evaluaciones del proceso de encuesta",
+          "subtitle": "Aquí podrás previsualizar las evaluaciones del proceso de encuesta"
+        }
+      }
+    },
+    "contract-types": {
+      "title": "Tipo de contratos",
+      "singular_title": "tipo de contrato",
+      "subtitle": "Aquí añade los tipos de contrato de la compañía por ejemplo: tiempo completo, medio tiempo, etc",
+      "collaborators": "colaboradores tienen este tipo de contrato"
+    },
+    "cities": {
+      "title": "Ciudades",
+      "singular_title": "Ciudad",
+      "subtitle": "Agrega la ciudad, por ejemplo: Buenos Aires, Bogotá, etc",
+      "move": "Mover colaboradores de la ciudad"
+    },
+    "positions": {
+      "title": "Cargos",
+      "singular_title": "Cargo",
+      "subtitle": "Agrega un cargo, por ejemplo: Tech Lead, Software Engineer, etc",
+      "collaborators": "colaboradores tienen esta posicion asignada",
+      "relocate_title": "Eliminar cargo",
+      "relocate_subtitle": "Al eliminar cargo debes reubicar a los colaboradores a otro cargo",
+      "alert_message": "Enviaremos un email cuando el proceso se complete"
+    },
+    "contract_types": "Tipos de contrato",
+    "benefits": "Beneficios",
+    "companies": "Compañias",
+    "finish_contract_reasons": "Razones de desvinculación",
+    "cost_center": "Centro de costo",
+    "additional-fields": {
+      "title": "Campos personalizados",
+      "subtitle": "Agrega o edita la información adicional de tus colaboradores",
+      "singular_title": "el campo personalizado"
+    }
+  },
+  "table": {
+    "create_date": "Fecha de creación",
+    "collaborators": "Colaborador",
+    "actions": {
+      "main": "Acciones",
+      "edit": "Editar",
+      "collaborators": "Colaboradores",
+      "delete": "Eliminar",
+      "send": "Enviar proceso",
+      "send_reminder": "Enviar Recordatorio",
+      "move": "Mover",
+      "preview": "Previsualización"
+    }
+  }
+}

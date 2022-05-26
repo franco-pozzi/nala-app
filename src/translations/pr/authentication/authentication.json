@@ -1,0 +1,42 @@
+{
+  "title": "Descubra o talento e potencialize",
+  "subtitle": "Acesse as ferramentas que precisa para tomar as decisões que potenciem sua equipe.",
+  "sign_in": "Login",
+  "welcome": "Ola, bem-vindo",
+  "sign_in_with_google": "Entrar com o Gmail",
+  "email": "Email",
+  "password": "Senha",
+  "forgotten_password_question": "¿Esqueceu sua senha?",
+  "free_text": "Gratuito 2 meses",
+  "no_credit_card": "Não precisa cartão de credito",
+  "no_account": "¿Não tem conta?",
+  "register_now": "Entre agora",
+  "or": "Ou",
+  "create_password": "Criar uma senha",
+  "password_dont_match": "As senhas não coincidem",
+  "recover_password": {
+    "send_instructions": "Enviar instrucções",
+    "instructions_message": "Instrucções enviadas ao email:",
+    "recover_password": "Recuperar senha",
+    "same_passwords_validation": "As senhas devem ser as mesmas",
+    "validate_password_lenght": "A senha deve ter 8-16 caracteres",
+    "repeat_password": "Repetir senha",
+    "save_changes": "Salvar cambios",
+    "your_email": "Seu email",
+    "successfully_recover": "Sua senha foi redefinida com sucesso. Por favor faça login novamente!",
+    "validate_password_max_length": "Deve ter menos de 16 caracteres"
+  },
+  "change_password": {
+    "actual_password": "Senha atual",
+    "new_password": "Nova senha",
+    "new_password_confirmation": "Repetir senha",
+    "change_password": "Mudar senha",
+    "cancel": "Cancelar",
+    "change_your_password": "Mude sua senha!",
+    "error_actual_password": "A senha é errada"
+  },
+  "password_created_successfully": "Senha criada com sucesso",
+  "invalid_token_password_created": "Seu token é inválido, solicitação para recuperar a senha",
+  "token_expired": "Seu token expirou",
+  "password_create_successfully": "A senha foi criada com sucesso"
+}

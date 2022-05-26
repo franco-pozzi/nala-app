@@ -1,0 +1,34 @@
+{
+  "title": "Templates",
+  "select_template": "Select template",
+  "selected_data": "Selected data",
+  "description": "Here you can choose a template or create a template to ask additional questions, request documents or provide information about the company.",
+  "actions": {
+    "create": "Create template",
+    "edit": "Edit template",
+    "delete": "Delete template",
+    "send": "Save Template",
+    "show": "Template preview"
+  },
+  "template_title": {
+    "title": "Template title",
+    "label": "Title"
+  },
+  "required_documents": {
+    "title": "Documents required from the candidate",
+    "description": "Create or select the documents to be requested from the applicant.",
+    "select": "Add new document",
+    "add": "Create document"
+  },
+  "additional_information": {
+    "title": "Additional information required from the candidate",
+    "description": "Create or select the additional questions you want to ask the candidate.",
+    "select": "Add new question",
+    "add": "Create new question"
+  },
+  "alertMessage": {
+    "create_template": "You are sure you want to create the template.",
+    "update_template": "You are sure you want to update the template.",
+    "delete_template": "You are sure you want to delete the template."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Meu acompanhamento de integração",
+  "tabs": {
+    "overview": "Overview",
+    "results": "Meus resultados"
+  },
+  "team": {
+    "title": "Sua equipe",
+    "subtitle": "Conheça os membros de sua equipe",
+    "manager": "Meu Líder"
+  },
+  "tasks": {
+    "title": "Tarefas",
+    "subtitle": "Complete suas tarefas para avançar"
+  },
+  "onboardingFollowUp": "Acompanhamento Onboarding colaboradores",
+  "searchCollaborators": "Pesquisar colaboradores",
+  "collaboratorsInFollowUp": "Acompanhamento de colaboradores",
+  "detailsTable": {
+    "position": "Cargo",
+    "days": "Dias",
+    "satisfaction": "Satisfação",
+    "performance": "Desempenho"
+  },
+  "description":{
+    "days": "Número de dias na empresa"
+  },
+  "actions": {
+    "viewProfile": "Ver perfil",
+    "viewFollowUp": "Ver acompanhamento"
+  },
+  "downloadTitle": "Acompanhamento de colaboradores",
+  "noResult": "Sem resultado"
+}

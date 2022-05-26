@@ -1,0 +1,25 @@
+{
+  "title": "Preboarding",
+  "send": "Enviar Onboarding",
+  "saveButton": "Salvar",
+  "cancelButton": "Cancelar",
+  "states": {
+    "pending": "Pendente",
+    "inProgress": "Em progresso",
+    "completed": "Concluído",
+    "sent": "Enviado"
+  },
+  "steps": {
+    "personalInfo": "Informações pessoais",
+    "additionalInfo": "Informações adicionais",
+    "uploadDocuments": "Carregar documentação",
+    "companyInfo": "Informações sobre a empresa",
+    "ready": "Estamos prontos!"
+  },
+  "alert": {
+    "noComplete": {
+      "title": "Você ainda precisa completar seus dados",
+      "message": "Há dados requeridos em \"Informações adicionais\""
+    }
+  }
+}

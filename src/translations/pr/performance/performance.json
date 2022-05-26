@@ -1,0 +1,93 @@
+{
+  "title": "Desempenho",
+  "no-data-message": "Para visualizar as informações do painel, os colaboradores devem responder a pesquisa de desempenho.",
+  "no-data-title": "Não há dados",
+  "goodLeaderData": {
+    "beAGoodCoach": "Ser um bom treinador",
+    "empowerTeam": "Capacitar a equipe e não microgerenciar",
+    "expressInterest": "Expressar interesse e preocupação",
+    "beVeryProductive": "Ser muito produtivo",
+    "beAGoodCommunicator": "Ser um bom comunicador",
+    "helpTeam": "Ajudar a equipe no desenvolvimento de carreira",
+    "visionOfArea": "Ter visão da área",
+    "technicalSkills": "Ter as habilidades técnicas",
+    "leadershipReport": "Relatório de liderança",
+    "participation": "Participação",
+    "numberSurveysAnswered": "Número de pesquisas a que responderam",
+    "numberManagersEvaluated": "¿Quantos líderes foram avaliados?"
+  },
+  "leaderClassification ": {
+    "exemplaryLeader": "Líder exemplar",
+    "goodLeader": "Bom Líder",
+    "leaderInDevelopment": "Líder em desenvolvimento",
+    "box": "Chefe"
+  },
+  "featureTitle": "Avaliamos as 8 características que fazem um Bom Líder:",
+  "classificationTitle": "Classificação segundo o resultado:",
+  "grades": "Nota",
+  "comments": "Comentários",
+  "leaderEvaluation": "Avaliação do Bom Leader",
+  "leaderEvaluationText": "Nesta seção, coletamos o feedback de sua equipe para que você possa conhecer as competências de liderança que reconhece em si mesmo e as que deve trabalhar para se tornar um líder exemplar. Aceite este feedback como um presente.",
+  "leaderDescriptionQuestion": "As perguntas feitas à sua equipe foram baseadas nas características de um bom Líder, esse é o detalhe dos resultados finais.",
+  "leaderComments": "Devido a questões de confidencialidade, você não pode ver as pessoas que fizeram comentários.",
+  "leadershipAssessment": "Avaliação de Liderança",
+  "evaluationTeamTitle": "Conheça suas virtudes e necessidades de desenvolvimento:",
+  "evaluationTeam": "Avaliação do time",
+  "performanceEvaluationNote": "Avaliação de Desempenho",
+  "evaluation": "Desempenho",
+  "selectEvolution": "Selecione período",
+  "seeComments": "Ver comentários",
+  "generalComments": "Comentários Gerais",
+  "noComments": "Sem comentários",
+  "dashboard": {
+    "title": "Relatório de desempenho",
+    "filter_evaluation": "Selecionar período",
+    "top_collaborators": "Top",
+    "bottom_collaborators": "Bottom",
+    "graphic_title": "Evolução do desempenho",
+    "heat_map_title": "Mapa de áreas críticas",
+    "value_scala": "Escala",
+    "select": "Selecionar",
+    "country": "País",
+    "city": "Cidade",
+    "division": "Departamento",
+    "area": "Área",
+    "subarea": "Subárea",
+    "download_image": "Baixar imagem",
+    "download_pdf": "Baixar PDF",
+    "unities": "Departamento",
+    "collaborators": "Equipe",
+    "total": "Total",
+    "download": "Baixar",
+    "excel": "Excel",
+    "manager": "Líder"
+  },
+  "classificationRank": {
+    "super_star": "Super Estrela",
+    "star": "Estrela",
+    "consistent": "Consistente",
+    "in_development": "Em desenvolvimento",
+    "not_consistent": "Pouco consistente"
+  },
+  "alert": "Desempenho ponderado",
+  "goodLeaderDescriptionScale": "De acordo com as respostas, existem 4 classificações:",
+  "managers": "Líderes",
+  "classificationRankDescription": {
+    "superStar": {
+      "text": "Proactivo, vai além das tarefas e funções atribuídas, trabalha sob poucas directrizes e pouca ou nenhuma supervisão."
+    },
+    "star": {
+      "text": "Executa tarefas e funções atribuídas de uma forma notável em qualidade e tempo.",
+      "moreInfo": "- Ocasionalmente, proporciona resultados que são extraordinários ao que a sua posição exige."
+    },
+    "consistent": {
+      "text": "Executa as tarefas e tarefas atribuídas sem se destacar."
+    },
+    "inDevelopment": {
+      "text": "Não completa o que é atribuído, ocasionalmente não produz os resultados esperados. Não alcançou o domínio da sua posição."
+    },
+    "notConsistent": {
+      "text": "Não satisfaz o trabalho atribuído e as expectativas de emprego."
+    }
+  }
+}

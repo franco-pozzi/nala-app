@@ -1,0 +1,103 @@
+{
+  "title": "Candidates",
+  "selected-collaborators": "Selected",
+  "search": "Search",
+  "row": "Rows",
+  "created_successfull": "The candidate was created successfully",
+  "candidate_creation_title_success": "Candidate creation",
+  "mark_as_hired_modal": {
+    "title": "Hire candidate"
+  },
+  "table": {
+    "no_records": "No records to display",
+    "sub-title": "Candidates",
+    "table-head": {
+      "name": "Name",
+      "position": "Position",
+      "responsable": "Responsable",
+      "city": "City",
+      "admission_date": "Date of admission",
+      "action": "Action",
+      "status": "Status"
+    },
+    "footer-table": {
+      "Rows-Per-Page": "Rows Per Page"
+    }
+  },
+  "candidate": "Candidate",
+  "createCandidate": "Create Candidate",
+  "createOnboarding": "Create Onboarding",
+  "status": {
+    "selected": "Sent",
+    "fill_data": "Fill data",
+    "data_filled": "Data filled",
+    "require_more_data": "Require more data",
+    "data_required": "Data required",
+    "hire": "Hire",
+    "desist": "Withdrawal",
+    "hired": "Hired",
+    "desisted": "Withdrawn"
+  },
+  "actions": {
+    "view_profile": "View profile",
+    "edit_candidate": "Edit candidate",
+    "send_reminder": "Send reminder",
+    "send_feedback": "Send feedback",
+    "mark_as_hired": "Mark as hired",
+    "mark_as_desisted": "Mark as withdrawn",
+    "continue": "Continue",
+    "disabled_mark_as_hired_by_date": "Remember that you can mark as hired from your start date."
+  },
+  "alertMessage": {
+    "title": "Are you sure?",
+    "text_reminder": "Are you sure you want to send a reminder to the candidate",
+    "cancel": "No, cancel",
+    "approved": "Yes, I am sure",
+    "subject": "Subject",
+    "message": "Message",
+    "text_hired": "Are you sure you want to mark the candidate as hired",
+    "text_delete": "Are you sure you want to eliminate this candidate",
+    "default_btn_accept": "Accept",
+    "default_btn_cancel": "Cancel",
+    "error": "Form error",
+    "send": "Are you sure you want to send the requested information",
+    "create_candidate": "You are sure you want to send the application to the candidate.",
+    "success": "The request has been sent successfully"
+  },
+  "induction": {
+    "title": "Onboarding",
+    "welcome": "Welcome",
+    "to": "to",
+    "message": "This section is for you to get to know us before you join your new position. You will find information about us and it will also allow you to carry out the administrative procedures for your incorporation.",
+    "personal_info": "Personal Information",
+    "additional_info": "Additional Information",
+    "requested_docs": "Requested documents",
+    "upload": "Upload",
+    "download": "Download",
+    "select_file": "Select file",
+    "select_another_file": "Select another file",
+    "complete_data": "Complete your data in section",
+    "personal_data": "Personal Data",
+    "description_doc": "These are all the documents related to your contract",
+    "back": "Back",
+    "next": "Next",
+    "send": "Send",
+    "format_file": "Invalid format file",
+    "formats": "PDF, JPG, JPEG, PNG files only. Maximum file size of 5 MB.",
+    "ready": "We are ready!",
+    "ready_text": "Thank you very much for completing the tasks",
+    "start_date": "your start date is",
+    "message_text": "You will soon receive an email with your new login information so you can continue your process.",
+    "select_subtitle": "Select the type of onboarding you would like to send."
+  },
+  "optionsModal": {
+    "one": {
+      "title": "Onboarding a candidate",
+      "subtitle": "Create your onboarding for a future collaborator."
+    },
+    "massive": {
+      "title": "Mass onboarding",
+      "subtitle": "Create your onboarding for several collaborators at the same time."
+    }
+  }
+}

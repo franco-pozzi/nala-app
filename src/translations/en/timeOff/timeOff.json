@@ -1,0 +1,66 @@
+{
+  "viewTitle": "Time off",
+  "tabs": {
+    "personal": "Personal",
+    "team": "Team"
+  },
+  "excel": {
+    "Personal id": "Personal id",
+    "Name": "Name",
+    "Email": "Email",
+    "Manager name": "Leader",
+    "Starting date": "Date from",
+    "Finish date": "Date to",
+    "Number of calendar days": "Number of calendar days",
+    "Number of business days": "Number of business days",
+    "Type": "Type",
+    "Reason": "Reason",
+    "State": "State",
+    "download-excel": "Download Excel"
+  },
+  "search_collaborators": "Search collaborators",
+  "Manage_request": {
+    "Accept": "Yes, I am sure",
+    "Reject": "No, cancel",
+    "Title": "Are you sure?",
+    "SubtitleReject": "You are sure you want to reject the application.",
+    "SubtitleAccept": "You are sure you want to accept the application.",
+    "SubtitleDelete": "You are sure you want to delete the application.",
+    "Pending": "Pending",
+    "Approved": "Approved",
+    "RejectionReason" : "Rejection reason"
+  },
+  "states": {
+    "pending": "Pending",
+    "rejected": "Rejected",
+    "approved": "Approved",
+    "approved_by_leader":"Approved by leader"
+  },
+  "types":{
+    "vacations": "Vacations",
+    "medical_license": "Medical License",
+    "permission": "Permission",
+    "ticket_days": "Ticket days",
+    "mourning_leave": "Mourning leave",
+    "mariage_leave": "Marriage leave",
+    "maternity_leave": "Maternity leave",
+    "paternity_leave": "Paternity leave"
+  },
+  "document": "Document",
+  "under_construction": {
+    "title": "Module under construction",
+    "message": "At the time, you will receive an email with your PTO status",
+    "comingSoon": "Coming soon"
+  },
+  "from": "From",
+  "to": "To",
+  "whoIsFree": "Who is on your time off from the team?",
+  "typeOfAbsence": "Type of absence",
+  "history": "Time off history",
+  "editTimeOffTitle": "Edit time off request",
+  "overallStatus": {
+    "confirmed": "Confirmed",
+    "toBeConfirmed": "To be confirmed",
+    "enjoyed": "Enjoyed"
+  }
+}

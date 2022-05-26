@@ -1,0 +1,35 @@
+{
+  "title": "Mi Seguimiento de Onboarding",
+  "tabs": {
+    "overview": "Overview",
+    "results": "Mis resultados"
+  },
+  "team": {
+    "title": "Tu equipo",
+    "subtitle": "Conoce a los miembros de tu equipo",
+    "manager": "Mi Líder"
+  },
+  "tasks": {
+    "title": "Tareas",
+    "titleManager": "Tareas pendientes",
+    "subtitle": "Completa tus tareas para avanzar"
+  },
+  "onboardingFollowUp": "Seguimiento Onboarding Colaboradores",
+  "searchCollaborators": "Buscar colaboradores",
+  "collaboratorsInFollowUp": "Colaboradores en seguimiento",
+  "detailsTable": {
+    "position": "Cargo",
+    "days": "Días",
+    "satisfaction": "Satisfacción",
+    "performance": "Desempeño"
+  },
+  "description":{
+    "days": "Número de días en la empresa"
+  },
+  "actions": {
+    "viewProfile": "Ver perfil",
+    "viewFollowUp": "Ver seguimiento"
+  },
+  "downloadTitle": "Seguimiento Colaboradores",
+  "noResult": "Sin resultado"
+}

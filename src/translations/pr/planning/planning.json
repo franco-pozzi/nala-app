@@ -1,0 +1,66 @@
+{
+  "title": "Planejamento",
+  "subtitle": "Gerencie aqui as pesquisas que vão te ajudar a medir os aspectos mais relevantes para a cultura da organização.",
+  "surveys": {
+    "title": "Escolha uma opção para criar uma avaliação",
+    "preview_text": "Conheça o",
+    "preview_strong_text": "tipo de pesquisa chegará aos colaboradores",
+    "reminder": "Enviar lembrete para colaboradores",
+    "target_audience": "Público-alvo",
+    "number_of_participants": "# de participantes"
+  },
+  "modal": {
+    "title": "Participantes do processo"
+  },
+  "calendar": {
+    "title": "Calendário",
+    "events": "Eventos",
+    "today": "Hoje",
+    "reminder": "Lembrete",
+    "days": "dias",
+    "day": "dia",
+    "empty_events": "Não há nada planejado para o dia"
+  },
+  "alertMessage": {
+    "title_delete": "Excluir Evento",
+    "text_delete": "Quer excluir este evento?"
+  },
+  "processDetail": {
+    "title": "Estado",
+    "subtitle": "(O estado se actualiza uma vez por dia)",
+    "status": {
+      "incomplete": "Pendente",
+      "does_not_apply": "Não aplica",
+      "complete": "Feito"
+    },
+    "status_detail": {
+      "incomplete": "Lembre-se que para nós é importante ter o seu feedback para contribuir do processo.",
+      "does_not_apply": "Não se cumpre o tempo mínimo na empresa para participar no processo.",
+      "complete": "Obrigado por participar no processo!"
+    },
+    "audience": {
+      "all": "Todos"
+    }
+  },
+  "evaluations": {
+    "Autoevaluation": {
+      "title": "Auto-avaliação",
+      "action": "Resposta"
+    },
+    "CollaboratorsEvaluation": {
+      "title": "Avaliação do líder"
+    },
+    "ManagerEvaluation": {
+      "title": "Avaliação da equipe"
+    },
+    "PairsEvaluation": {
+      "title": "Avaliação dos pares",
+      "subtitle": "Seleccione o par ao qual quer dar feedback.",
+      "action": "Resposta"
+    },
+    "OverallEvaluation": {
+      "title": "Avaliação",
+      "action": "Resposta"
+    }
+  }
+}

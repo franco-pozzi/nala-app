@@ -1,0 +1,14 @@
+{
+  "createAudience": "Crear una audiencia",
+  "description": "Crea un grupo personalizado de usuarios para hacer seguimiento, enviar encuestas o crear informes.",
+  "copyCollaborators": "Copia y pega aquí la lista de correos de usuarios que quieres agregar:",
+  "fields": {
+    "nameAudience": "Nombre de audiencia",
+    "email": "Correo electrónico"
+  },
+  "validate": {
+    "actives": "colaboradores agregados",
+    "inactives": "no encontrados como activos",
+    "noExist": "no existen"
+  }
+}

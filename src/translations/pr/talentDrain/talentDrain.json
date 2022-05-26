@@ -1,0 +1,95 @@
+{
+  "title": "Perda de talento",
+  "preview": "Pré-Visualização",
+  "chart":{
+    "labels": {
+      "job_satisfaction": "Satisfação no trabalho",
+      "well_balanced": "Equilíbrio vida-trabalho",
+      "inclusive_growth": "Crescimento inclusivo ",
+      "leader_impact": "Impacto do líder",
+      "collaboration": "Colaboração",
+      "compensation": "Compensação",
+      "engagement": "Engajamento"
+    },
+    "tooltips":{
+      "job_satisfaction": "O cargo está alinhado com as expectativas, consegue se desenvolver nele, conhece o impacto que tem na empresa e se sente valorizado.",
+      "well_balanced": "O trabalho permite ter a qualidade de vida que o colaborador espera.",
+      "inclusive_growth": "Tem as mesmas oportunidades que todos dentro da empresa, se sente incluído e recebe o mesmo tratamento que todos.",
+      "leader_impact": "Impacto do estilo de liderança na equipe.",
+      "collaboration": "Tem um relacionamento saudável com os colegas de trabalho e contribui com a equipe.",
+      "compensation": "Percepção do salário frente ao mercado, equidade interna e/ou satisfacção pessoal.",
+      "engagement": "Devido ao seu alto nível de autonomia, aprendizado e propósito, se sente altamente conectado à empresa.",
+      "description": "Descrição"
+    },
+    "tooltipsContent": {
+      "titles": {
+        "critic": "¡Crítico!",
+        "warning": "Alarmante",
+        "info": "Realize uma ação",
+        "success": "Ótimo, continue assim!"
+      },
+      "job_satisfaction":{
+        "critic": "Considere uma troca de posição para seu colaborador, pode não sentir mais nenhum desafio",
+        "warning": "Reconheça com maior frequência as entregas e apresente novos desafios dentro do cargo",
+        "info": "Algo o está incomodando frente ao cargo, faça uma reunião de feedback e identifique-o!"
+      },
+      "well_balanced":{
+        "critic": "Dê-lhe férias ou tempo livre para descansar e na volta faça um novo plano de trabalho.",
+        "warning": "Busque apoio profissional, talvez a pessoa precise reorganizar suas prioridades e trabalhar para encontrar um equilíbrio saudável.",
+        "info": "Se tem muitas responsabilidades, redistribua-as. Se for por falta de organização, ajude o seu colaborador a desenvolver uma melhor agenda."
+      },
+      "inclusive_growth":{
+        "critic": "Seu colaborador se sente excluído e sem oportunidades de crescimento. Avalie seu potencial e habilidades, pode ser que esteja pronto para uma promoção e você não esteja percebendo.",
+        "warning": "Seu colaborador não se sente 100% incluído e vê improvável que haja oportunidades de crescimento, avalie seu potencial, talvez investindo no desenvolvimento de algumas capacidades técnicas possa promovê-lo a outro cargo ao médio prazo.",
+        "info": "Reveja a dinâmica da equipe, seu colaborador pode ver oportunidades de crescimento, mas não se sente 100% incluído."
+      },
+      "leader_impact":{
+        "critic": "Você precisa fazer uma mudança, conversar com sua equipe, fazer acordos e focar em melhorar essas pequenas coisas que no curto prazo podem gerar um impacto positivo rapidamente. A transparência com sua equipe será seu melhor aliado.",
+        "warning": "Analize o feedback que seus colaboradores estão lhe dando, os resultados são alcançados através da equipe, é importante melhorar esse relacionamento.",
+        "info": "Você está no caminho certo, mas é importante que ouça o feedback de sua equipe, sempre é possível aprimorar aquelas competências que seus colaboradores mais valorizam."
+      },
+      "collaboration":{
+        "critic": "Verifique a possibilidade de realocar seu colaborador para outra equipe de trabalho, a dinâmica pode já estar muito desgastada para consertar.",
+        "warning": "Faça uma dinâmica de integração e identifique possíveis atritos que podem ser trabalhados.",
+        "info": "Integre mais o seu colaborador à equipe, fortaleça os laços e a dinâmica do grupo."
+      },
+      "compensation":{
+        "critic": "Avalie a possibilidade de fazer um aumento, é muito provável que o salário esteja bem fora do mercado ou equidade interna",
+        "warning": "Verifique a equidade salarial da equipe, pode haver diferenças que estão gerando atrito entre a equipe.",
+        "info": "Pode estar se sentindo pouco reconhecido ou valorizado diante a dedicação ao trabalho; reconhecer o trabalho e mostrar um caminho de crescimento vai amenizar esse desconforto."
+      },
+      "engagement":{
+        "critic": "Há uma grande insatisfação com a empresa, procure o que fazia o seu colaborador se sentir ligada à empresa no passado e tente reavivar essa chama",
+        "warning": "Identifique os melhores atributos da cultura da empresa e potencialize eles com o time; assim mesmo, aprenda a reconhecer e explicar os pontos fracos para alinhar as expectativas do seu colaborador",
+        "info": "Identifique as principais motivações do seu colaborador e quando ele se sentir frustrado, lembre-o desses atributos e reconecte-o com a visão. É importante sair da rotina para ver o quadro geral e reconectar."
+      }
+    }
+  },
+  "table":{
+    "table-head": {
+      "name": "Nome",
+      "lossRisk": "Risco de perda",
+      "performance": "Desempenho",
+      "recommendation": "Recomendação",
+      "actions": "Ações"
+    }
+  },
+  "filters":{
+    "appliedFilters": "Filtros aplicados",
+    "collaborators": "Colaboradores",
+    "managers": "Líderes",
+    "unities": "Unidades",
+    "periods": "Períodos",
+    "countries": "Países",
+    "cities": "Cidades",
+    "orgUnits": "Unidades",
+    "states": "Estados",
+    "nofilter": "Nada filtrado"
+  },
+  "satisfactionMap": "Mapa de satisfação",
+  "map": "Mapa",
+  "recommendations": "Recomendações",
+  "lowRisk": "Baixo risco",
+  "mediumRisk": "Risco médio",
+  "highRisk": "Alto risco"
+}

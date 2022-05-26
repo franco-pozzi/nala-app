@@ -1,0 +1,92 @@
+{
+  "title": "Individual Development Plan",
+  "subtitle": "Create agreements to facilitate the development process of your employees.",
+  "tabs": {
+    "in-progress": "In Progress",
+    "overview": "Overview"
+  },
+  "agreement": "Agreement",
+  "agreements": "agreements",
+  "newAgreement": "New Agreement",
+  "tabsOverview": {
+    "tipsForDevelopment": "Tips for your development",
+    "employeeExpectations": "Employee expectations",
+    "riskOfLoss": "Risk of loss",
+    "recommendations": "Recommendations"
+  },
+  "states": {
+    "pending": "Pending",
+    "finished": "Finished",
+    "archived": "Archived"
+  },
+  "labels": {
+    "supportLinks": "Support links",
+    "peopleInvolved": "People involved"
+  },
+  "details": {
+    "thereAre": "There are",
+    "agreementsOf": "agreements of",
+    "collaborators": "collaborators"
+  },
+  "theAgreement": "the agreement",
+  "addLink": "Add another...",
+  "searchCollaborators": "Search for partners",
+  "noTips": "No tips at this time.",
+  "tipsByQuadrant": {
+    "sixth": [
+      "Carefully review current role requirement against capabilities and interests to see if they are compatible.",
+      "Give clear and objective feedback about his performance and monitor his performance improvement in the subsequent month.",
+      "In case of improvement, keep monthly follow up, and in case of no improvement, consider making a decision of a dismissal."
+    ],
+    "seventh": [
+      "Carefully review current role requirement vs. capabilities and interests to see if they are compatible.",
+      "Generate a One to One in order to make clear your performance status vs. expectation and generate an action plan to improve performance.",
+      "Frequently monitor their performance improvement and keep feeding back their potential every 3 months.",
+      "In case of no improvement, consider making the decision of a layoff."
+    ],
+    "eighth": [
+      "Carefully review current role requirement vs. skills and interests to see if they are compatible.",
+      "Provide coaching to increase long term performance.",
+      "Assign mentor/coach to develop areas of opportunity.",
+      "Consider giving her a challenge to help develop areas of opportunity.",
+      "Frequently monitor her performance improvement and keep feeding back her potential."
+    ],
+    "third": [
+      "Put focus on learning and development in advanced skills for medium to high performance increase.",
+      "Give transparent feedback on opportunities for improvement.",
+      "Offer opportunities for technical and leadership skills improvement for current role.",
+      "Frequently monitor their performance improvement and keep feeding back their potential."
+    ],
+    "fourth": [
+      "Put focus on learning and development in advanced skills for medium to high performance increase.",
+      "Increase responsibilities and focus of your current position.",
+      "Demonstrate that the organization values your ideas and insights by asking you to contribute your point of view.",
+      "Continue to test leadership capabilities.",
+      "Continue to evaluate on your willingness to continue to grow in the company."
+    ],
+    "fifth": [
+      "Put focus on development in a specific competency or skills gap that can support him in growing his performance.",
+      "Give him/her good exposure and intense challenges with a lot of variety.",
+      "Prepare them for long-term opportunities."
+    ],
+    "zero": [
+      "Offer opportunities to deepen his technical knowledge and specialization of his role or increase leadership competencies in his development.",
+      "Leave as key people/knowledge experts in their teams/projects and give him/her opportunities to mentor others.",
+      "Encourage them to be protagonists in sharing functional knowledge of their areas of performance with internal teams.",
+      "Provide direct feedback on opportunities for expected progress from the collaborator."
+    ],
+    "first": [
+      "Map specific learning and development opportunities to develop future competencies.",
+      "Provide significant and/or innovative projects or challenges.",
+      "Open the possibility for them to mentor others.",
+      "Leave them as references in change management projects."
+    ],
+    "second": [
+      "Maintain them in roles of high visibility, exposure and accountability.",
+      "Provide important and/or innovative projects or challenges.",
+      "Provide access to strategic development opportunities.",
+      "Open up the possibility for you to mentor others.",
+      "Ensure short and long term growth opportunities."
+    ]
+  }
+}

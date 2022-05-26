@@ -1,0 +1,79 @@
+{
+  "title": "Settings",
+  "subtitle": "General settings",
+  "modules": {
+    "units": {
+      "title": "Units",
+      "singular_title": "Unit",
+      "subtitle": "Add the company units for example: department and area.",
+      "collaborators": "employees belong to this unit",
+      "move": "Move unit",
+      "relocate_title": "Delete unit",
+      "relocate_subtitle": "You must relocate employees to another unit.",
+      "alert_message": "We will send an email when the process is complete"
+    },
+    "surveys": {
+      "title": "Surveys",
+      "subtitle": "Here you can manage the survey processes",
+      "submodule": {
+        "title": "Survey process"
+      },
+      "button_name": "Create survey process",
+      "actions": {
+        "new": {
+          "title": "Create survey process",
+          "subtitle": "Here you can create a new survey processes"
+        },
+        "edit": {
+          "title": "Edit survey process",
+          "subtitle": "Here you can edit the survey processes"
+        },
+        "preview": {
+          "title": "Preview Survey Process - Evaluations",
+          "subtitle": "Here you can preview the evaluations of the survey process"
+        }
+      }
+    },
+    "contract-types": {
+      "title": "Contract types",
+      "singular_title": "Contract type",
+      "subtitle": "Add the company contract type for example: fulltime, part time, etc",
+      "collaborators": "employees have this contract type"
+    },
+    "cities": {
+      "title": "Cities",
+      "singular_title": "City",
+      "subtitle": "Add the city for example: Buenos Aires, Bogotá, etc",
+      "move": "Move employees from the city"
+    },
+    "positions": {
+      "title": "Positions",
+      "singular_title": "Position",
+      "subtitle": "Add the company position, for example: Tech Lead, Software Engineer, etc",
+      "collaborators": "employees have this position assigned",
+      "relocate_title": "Delete position",
+      "relocate_subtitle": "You must relocate employees to another position.",
+      "alert_message": "We will send an email when the process is complete"
+    },
+    "contract_types": "Contract types",
+    "benefits": "Benefits",
+    "companies": "Companies",
+    "finish_contract_reasons": "Finish contract reasons",
+    "cost_center": "Cost center",
+    "additional_fields": "Additional fields"
+  },
+  "table": {
+    "create_date": "Creation date",
+    "collaborators": "Employee",
+    "actions": {
+      "main": "Actions",
+      "edit": "Edit",
+      "collaborators": "Employees",
+      "delete": "Delete",
+      "send": "Send Process",
+      "send_reminder": "Send Reminder",
+      "move": "Move",
+      "preview": "Preview"
+    }
+  }
+}

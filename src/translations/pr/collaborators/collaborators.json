@@ -1,0 +1,111 @@
+{
+  "title": "Colaboradores",
+  "sub_title": "Aqui estão todos os colaboradores da sua empresa, inclusive os não relacionados",
+  "selected-collaborators": "Selecionado",
+  "search": "Buscar",
+  "row": "Filas",
+  "table": {
+    "no_records": "Não há registros a serem exibidos",
+    "sub-title": "Colaboradores",
+    "table-head": {
+      "full_name": "Nome",
+      "name": "Nome",
+      "email": "Correio eletrônico",
+      "country": "País",
+      "city": "Cidade",
+      "position_name": "Posição",
+      "position": "Posição",
+      "starting_date": "Data de início",
+      "termination_date": "Data de término",
+      "company_id": "ID Empresa",
+      "manager_name": "Líder",
+      "manager": "Líder",
+      "department": "Departamento",
+      "manager_evaluation": "Avaliação gestor",
+      "self_evaluation": "Auto avaliação",
+      "pairs": "Pares",
+      "collaborators": "Equipe",
+      "total_evaluation": "Avaliação total",
+      "leadership_skills": "Habilidades de liderança",
+      "actions": "Açao",
+      "potential": "Potencial",
+      "personal_id": "ID Personal",
+      "location": "Localização",
+      "starting_end_date": "Data de início / término"
+    },
+    "table-body": {
+      "view_profile": "Ver perfil",
+      "edit_profile": "Editar perfil",
+      "finish_contract": "Desligar",
+      "start_contract": "Contratar"
+    },
+    "footer-table": {
+      "Rows-Per-Page": "Filas por pagina"
+    },
+    "tabs": {
+      "all": "Colaboradores",
+      "hiring": "Na contratação",
+      "inactive": "Inativo",
+      "active": "Ativo"
+    },
+    "excel": {
+      "payroll_month": "Mês de folha de pagamento",
+      "termination_date": "Data de saída",
+      "type_termination": "Tipo de saída",
+      "reason_termination": "Razão de saída",
+      "comment_termination": "Comentário sobre a rescisão",
+      "email_corp": "Email corporativo",
+      "manager_personal_id": "Documento de Identidade Principal",
+      "manager_name": "Nome do líder",
+      "hierarchy_level": "Nível hierárquico",
+      "contract_type": "Tipo de contrato",
+      "company_name": "Companhia",
+      "country": "País",
+      "city": "Cidade",
+      "department": "Departamento",
+      "area": "Área",
+      "subarea": "Sub-área",
+      "cost_center": "Centro de custo",
+      "birth_date": "Data de nascimento",
+      "gender": "Gênero",
+      "currency_type": "Tipo de moeda",
+      "gross_salary": "Salário líquido",
+      "projected_ctc": "Custo projetado da folha de pagamento",
+      "projected_ctc_usd": "Custo projetado da folha de pagamento (USD)",
+      "health_benefit": "Seguro de saúde",
+      "food_benefit": "Vale-alimentação",
+      "dental_benefit": "Seguro dental",
+      "life_benefit": "Seguro de vida",
+      "termination_type_voluntary": "Voluntário",
+      "termination_type_involuntary": "Involuntário",
+      "status": "Status"
+    }
+  },
+  "forms": {
+    "title": "Criar Colaborador",
+    "finish_contract_title": "Rescisão do contrato do empregado",
+    "finish_contract_subtitle_relocate": "Quando você termina o contrato de um colaborador, você deve realocar os colaboradores para outro líder",
+    "termination_date": "Data de rescisão",
+    "termination_type": "Tipo de rescisão",
+    "termination_type_voluntary": "Voluntário",
+    "termination_type_involuntary": "Involuntário",
+    "termination_reason": "Motivo da rescisão",
+    "termination_comments": "Comentários de rescisão (Opcional)"
+  },
+  "buttons": {
+    "create_collaborator": "Criar Colaborador",
+    "actions": "Açao",
+    "cancel": "Cancelar",
+    "save_edit": "Guardar mudanças"
+  },
+  "audiences": "Audiências",
+  "audienceOptions": {
+    "create": "Criar"
+  },
+  "errors":{
+    "termination_date": "Não é possível rescisão com uma data futura"
+  },
+  "success": {
+    "termination_date": "Rescisão bem-sucedida"
+  }
+}

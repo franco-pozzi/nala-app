@@ -1,0 +1,221 @@
+{
+  "title": "Potential",
+  "no-data-message": "To view information from the dashboard, employees must answer the surveys",
+  "no-leader-evaluation": "No potential evaluation when there is no evaluation from the manager",
+  "no-data-title": "No data",
+  "potential-measures": {
+    "comprehensive": "Broad: Learns fast through experimentation when problems have to be solved, benefiting from successes and failures.",
+    "balanced": "Balance: Likes to feel confident with decisions and executed work, that is why in order to try a new solution to a problem investigates thoroughly to avoid mistakes, which makes him/her less agile.",
+    "deep": "Narrow: Resists taking opportunities in solutions or environments that have not been tested, prefers to contribute in his/her area of ​​expertise since the possible results are controlled."
+  },
+  "download-excel": "Download Excel",
+  "matrix": {
+    "title": "9-Box Talent Matrix",
+    "performance": "- Performance +",
+    "potential": "- Potential +",
+    "subtitle-box": {
+      "ya": "Inconsistent achiever",
+      "yb": "Consistent achiever",
+      "yc": "Exceeds expectations",
+      "xa": "Narrow",
+      "xb": "Balance",
+      "xc": "Broad"
+    },
+    "title-box": {
+      "a": "7. Solid Performer",
+      "text_a": "Consistently produces exceptional results and high performance ratings in a defined area. Knows the current job perfectly well. Does not adapt easily to new situations, particularly those that are beyond his/her functional area. Those in this box are very valuable to the organization and may be promoted within their area of ​​expertise.",
+      "b": "8. High Performer",
+      "text_b": "Consistently produces exceptional results and receives high performance ratings. Is particularly good at one or more areas of business, geography, functions, or specialized skills. Adapts to new situations and learns quickly. Can be promoted to multiple technical or functional areas, or in general administration.",
+      "c": "9. Consistent Star",
+      "text_c": "Performs well in almost everything. Is an agile learner. Transmits knowledge from one area to another. Makes things happen under tight dates and low resources. Is ready to take on more tasks in new areas, a promotion or lateral movements.",
+      "d": "4. Efficient Performer",
+      "text_d": "Consistently delivers results and sometimes are exceptional and with high performance scores in a defined and focused area. Knows the current job extremely well. Do not adapt easily to new situations. Has a narrow range of possibilities in terms of professional interests.",
+      "e": "5. Key Player",
+      "text_e": "Meets the expectations of the position. Understand and knows well the current job, and is increasing his/her skills within it. Adapts to new situations and challenges, as much as it is necessary. In new jobs and roles performs well over time. Could be promoted or move laterally within the organization.",
+      "f": "6. Future Star",
+      "text_f": "Consistently meets and sometimes exceeds expectations and is capable of assuming new and different challenges. Quickly picks up the pace when it comes to a new assignment. Has the potential to make career changes because of his/her broad professional interests.",
+      "g": "1. Low Performer",
+      "text_g": "Is not delivering the expected results, and does not adapt effectively to the new and different situations that are presented. Those within this box may require performance actions.",
+      "h": "2. Inconsistent Performer",
+      "text_h": "Has the potential to do more, but hasn't fully demonstrated it. Is not meeting the performance standards applied to peers in the organization and, as a result, is struggling. Could be new in the position or at the company, or could be in the wrong position or role.",
+      "i": "3. Diamond in the rough",
+      "text_i": "Most agree that has the potential to deliver results and do great things in the organization. Is possible that didn’t have the opportunities or time to show it yet. Maybe showed inconsistent results in the past or stumbled more than once recently, but people still thinks they have the potential to boost results and become a significant contributor. Maybe is in the wrong position, or does not fit the current situation."
+    },
+    "historical": "Trend",
+    "historical_text": "Activate the period you want to view in the talent matrix",
+    "historical_total": "Total employees",
+    "historical_empty": "To view trends there must be evaluations",
+    "quadrant": "Box",
+    "all_quadrant": "All boxes",
+    "text_details": "View all or select a box to review in detail people's position in the talent matrix",
+    "noDataQuadrant": "There is no information in this box",
+    "table-head-download": {
+      "id": "Id",
+      "name": "Name",
+      "email": "E-mail",
+      "performanceScore": "Performance score",
+      "performanceResult": "Performance result",
+      "potentialScore": "Potential score",
+      "potentialResult": "Potential result",
+      "quadrant": "Box",
+      "process": "Process name"
+    },
+    "view-all": "View all boxes"
+  },
+  "tabPotential": {
+    "alertNoDataTitle": "No data",
+    "alertNoDataMessage": "Information will be available when skills surveys are conducted.",
+    "title": "Skills",
+    "introduction": "Through the 360º skills surveys, here you can find the insights collected regarding your strengths and development opportunities.",
+    "badge": "Acknowledgments",
+    "previousBadgesAndRecommendations": "My previous acknowledgments and/or suggestions",
+    "noDataTitle": "You have not yet received acknowledgments and/or suggestions!",
+    "noDataSubtitle": "It may be that your colleagues, leaders and / or team have not yet answered the surveys.",
+    "noDataMessage": "It is worth remembering that everyone has their own professional motivations that are not always reflected in surveys.",
+    "riskOfLoss": "Risk of loss",
+    "riskOfLossText": "Know the probability of your employee's job desertion, it does not reflect the motivation of the person but a statistical probability.",
+    "superpowers_title": "Your superpowers are:",
+    "risks_title": "Every super power has its weakness, consider these tips:",
+    "recommendations_title": "Suggestions",
+    "actualRecommendations": "My current acknowledgments and/or suggestions",
+    "form": {
+      "description": "Do you agree with the result?"
+    },
+    "noneRisk": "Does not represent a risk of job desertion",
+    "lowRisk": "Represents low job desertion risk",
+    "mediumRisk": "Represents considerable risk of job desertion",
+    "highRisk": "Represents risk of high job desertion",
+    "criticRisk": "Represents risk of critical job desertion",
+    "skills": {
+      "titles": {
+        "talented": "Skills where I am talented",
+        "developed": "Developed skills",
+        "toDevelop": "Skills that I have to develop",
+        "tips": "Tips for your development"
+      },
+      "tooltips": {
+        "mental": "Actively learning through experimentation when faced new problems, using successes and failures as main tool for learning.",
+        "interpersonal": "Relating openly and comfortably with diverse groups of people.",
+        "change": "Adapting approach and behavior in real time to match the shifting demands of different situations, embracing the uncertainty of change.",
+        "results": "Delivers results, even when things are not certain or the way forward is not clear.",
+        "awareness": "Uses a combination of feedback and reflection to gain productive insight into personal strengths and weaknesses."
+      },
+      "titleContent":{
+        "Amplio": "Talented:",
+        "Balanceado": "Skilled:",
+        "Profundo": "Less Skilled:"
+      },
+      "content":{
+        "mental": {
+          "Amplio": ["Tries multiple times using multiple methods to find the right solution.", "Views mistakes as opportunities to learn.", "Enjoys the challenge of unfamiliar tasks."],
+          "Balanceado": ["Learns quickly when faced new situations.", "Experiments to find new solutions.", "Takes on the challenge of unfamiliar tasks.", "Extracts lessons learned from failures and mistakes."],
+          "Profundo": ["Struggles to learn in new situations.", "Becomes frustrated or confused by unfamiliar tasks.", "Gives up on new ideas too soon.", "Resists taking a chance on untested solutions."]
+        },
+        "interpersonal": {
+          "Amplio": ["Proactively develops relationships with a wide variety of people.", "Builds immediate rapport, even when facing difficult or tense situations.", "Understands interpersonal and group dynamics and reacts in an effective manner.", "Engages input from others constantly and listens with empathy and concern."],
+          "Balanceado": ["Relates comfortably with people across levels, functions, culture, and geography.", "Acts with diplomacy and tact.", "Builds rapport in an open, friendly, and accepting way.", "Builds constructive relationships with people both similar and different to self."],
+          "Profundo": ["Builds few relationships.", "Engages with people in immediate work area only. ", "Feels uncomfortable when interacting with people different from self.", "Expresses points of view in a blunt or insensitive manner.", "Shows little interest in others’ needs."]
+        },
+        "change": {
+          "Amplio": ["Adapts quickly to changing conditions and is proactive in seeking improvements.", "Picks up on the need to change personal, interpersonal, and leadership behavior quickly.", "Observes situational and group dynamics and selects best-fit approach according to the specific needs of others." ],
+          "Balanceado": ["Deals comfortably with the uncertainty of change.", "Picks up on situational cues and adjusts in the moment.", "Understands that different situations may call for different approaches. ", "Can act differently depending on the circumstances."],
+          "Profundo": ["Operates best when things are structured and predictable.", "Uses same style and approach regardless of the situation, expecting others to adjust to him/her.", "Thinks being true to self is all that matters. ", "Doesn’t take time to understand interpersonal dynamics."]
+        },
+        "results": {
+          "Amplio": ["Is energized when faced with ambiguity and uncertainty.  ", "Makes significant progress and remains calm and composed, even when things are uncertain. ", "Manages the risk that comes with moving forward when the outcome isn’t certain."],
+          "Balanceado": ["Effectively handles risk. ", "Can decide and act without the total picture. ", "Is calm and productive, even when things are up in the air. ", "Deals constructively with problems that do not have clear solutions or outcomes."],
+          "Profundo": ["Struggles to make progress when facing ambiguous or uncertain situations.", "Delays moving forward until all the details are known. ", "Appears stressed when things are uncertain." ]
+        },
+        "awareness": {
+          "Amplio": ["Seeks and acts on feedback from a wide variety of people.", "Willingly admits and takes responsibility for mistakes and shortcomings.", "Views criticism as helpful." ],
+          "Balanceado": ["Proactively seeks feedback without being defensive.", "Is open to criticism and talking about shortcomings.", "Admits mistakes and gains insight from experiences.", "Knows strengths, weaknesses, opportunities, and limits."],
+          "Profundo": ["Doesn’t reflect on past mistakes. ", "Acts defensively when given feedback.", "Is unaware of own skills and interpersonal impact.", "Makes excuses and blames others."]
+        }
+      },
+      "advise": {
+        "mental": "Overuse of this skill can lead you to take unnecessary risks just for taking them, instead of maintaining interest in generating a positive impact on the implemented solution.",
+        "interpersonal": "Using this skill excessively can lead you to rely too much on your network of contacts at the cost of not improving other required skills. Or manipulate your network for your own benefit and not for the company.",
+        "change": "Using this skill in excess can lead you to persistently seek change and innovation just to discard the old, putting efficiency and profitability at risk. Additionally, can be perceived as a social chameleon, leaving others unsure about your authenticity.",
+        "results": "Overuse of this skill can cause you to jump to conclusions without having enough data. Or you may carry out actions without first giving clarity to others as to why, going over people.",
+        "awareness": "Using this skill excessively can take your self-criticism to a level of appearing not very credible or insecure about your abilities. Analyze and think excessively about the feedback of others. Or spending a lot of time on self-reflection rather than making changes in your behaviors or abilities."
+      },
+      "tips": {
+        "mental": {
+          "videos": ["js8OfeEL4jI", "pN34FNbOKXc", "bEusrD8g-dM"],
+          "reading": ["https://www.inc.com/sylvia-lafair/5-ways-to-control-ambiguity-and-uncertainty.html", "https://professional.dce.harvard.edu/blog/solving-the-problem-with-problem-solving-meetings/"]
+        },
+        "interpersonal": {
+          "videos": ["qpnNsSyDw-g"],
+          "reading": ["https://www.thebalancecareers.com/developing-effective-work-relationships-1919386#:~:text=%20The%20Top%207%20Ways%20to%20Play%20Well,you%20talk%20down%20to%20another%20employee%2C...%20More%20", "https://blog.mindvalley.com/what-are-interpersonal-skills/", "https://hbr.org/2019/11/cracking-the-code-of-sustained-collaboration"]
+        },
+        "change": {
+          "videos": ["pYGBYDgwtR8", "xJM_CQN8-ns", "ryD8lfSEGio", "N3dbHceoPzk"],
+          "reading": ["https://www.inc.com/sylvia-lafair/5-ways-to-control-ambiguity-and-uncertainty.html", "https://professional.dce.harvard.edu/blog/solving-the-problem-with-problem-solving-meetings/"]
+        },
+        "results": {
+          "videos": ["W05FYkqv7hM", "Tfrrubw7pcE", "S3CU2kOBt3s", "kKy26jP7jUc"],
+          "reading": ["https://hbr.org/2019/01/managing-when-the-future-is-unclear"]
+        },
+        "awareness": {
+          "videos": ["CDmLI4zlBH0", "J2Qrm9UB7qY", "wtl5UrrgU8c", "LnJwH_PZXnM"],
+          "reading": ["https://medium.com/@brookeanderson/10-tips-on-receiving-critical-feedback-a-guide-for-activists-e51689c59d81#:~:text=%2010%20Tips%20on%20Receiving%20Critical%20Feedback%3A%20A,sorry%20you%E2%80%99re%20upset%E2%80%9D%20does%20not%20take...%20More%20", "https://www.tlnt.com/how-to-get-honest-feedback-when-youre-the-boss/#:~:text=%20How%20to%20Get%20Honest%20Feedback%20When%20You%E2%80%99re,%E2%80%94%20This%20is%20a%20baby%20step...%20More%20", "https://hbr.org/2012/05/how-to-get-feedback-when-youre.html"]
+        }
+      },
+      "turnOnSubtitles": "Turn on the subtitles"
+    },
+    "watchVideo": "Watch this video",
+    "reading": "We leave you this reading",
+    "careful": "Warning",
+    "knowMore": "Know more"
+  },
+  "chart": {
+    "personality_test_title": "Predictive Personality Profile",
+    "personality_test_description": "Using your linkedin profile and the DISC methodology, we build your personality traits.",
+    "dominant": "Dominant",
+    "stable": "Steadiness",
+    "conscious": "Conscientiousness",
+    "influential": "Influence",
+    "archetype": "Archetype",
+    "encouragement": "What motivates you",
+    "stress": "What stresses you out"
+  },
+  "personality-test": {
+    "dominant_text": "People with D personalities tend to be confident and place an emphasis on accomplishing bottom-line results. Direct, results-oriented, firm, tenacious and forceful.",
+    "influential_text": "People with I personalities tend to be more open and place an emphasis on relationships and influencing or persuading others.  Outgoing, enthusiastic, optimistic.",
+    "conscious_text": "People with C personalities tend to place the emphasis on quality, accuracy, expertise, and competency. Analytical, prudent, meticulous, reserved and systematic.",
+    "stable_text": "People with S personalities tend to be dependable and place the emphasis on cooperation and sincerity. Serene, condescending, patient, humble and diplomatic."
+  },
+  "talent_dictionary": {
+    "mental_agility": {
+      "title": "Mental Agility",
+      "broad_strengths": "We can generally be good at applying our past experiences to solve problems, but a rarer skill is doing unknown things. Experimenting with new solutions we have never tried before, analyzing problems in different contexts, thinking outside the box. This requires taking risks, not seeking perfection, swimming against the flow with patience, persistence and the best attitude. This is how you are currently being perceived in the company",
+      "broad_risks": "Overuse of this skill can lead you to take unnecessary risks just for taking them, instead of maintaining interest in generating a positive impact on the implemented solution.",
+      "deep_recommendations": "You are being perceived as someone who avoids taking risks. When facing unknown problems you are more likely to look for solutions that you have already implemented. This can happen for several reasons: being very oriented to perfection, not being able to look outside the box, being held in the past, not doing a deep analysis of the successes and failures to look for clues of how to solve a new problem. It's important that you expose yourself to unfamiliar problems, and a good way to find innovative solutions is to ask lots of questions about the problem before rushing to come up with a solution. There are studies that say that for every 8 solutions presented to a problem, only 1 question is asked about it. To find solutions out of the box spend 50% of your time on questions and problem definition and 50% on presenting solutions."
+    },
+    "people_agility": {
+      "title": "People Agility",
+      "broad_strengths": "Since the beginning of the 21st century, organizations are increasingly dynamic, global, there are centralized and decentralized functions, shared services, transversal responsibilities, face-to-face and virtual work. This new way in which we move has meant that decisions are made as a team, based on the opinion of several people in different functions. It is not enough to go to work and share with some colleagues to solve a problem. Currently, you are being seen as a person who manages to maintain relationships at all levels of the organization to obtain resources, knowledge and influence decision makers.",
+      "broad_risks": "O uso excessivo dessa habilidade pode levá-lo a confiar demais em sua rede de contatos ao custo de não aprimorar outras habilidades necessárias. Ou manipular sua rede para seu próprio benefício e não para o benefício da empresa.",
+      "deep_recommendations": "Você pode estar gerenciando uma rede de contatos muito limitada na empresa, o que dificulta a obtenção de recursos, conhecimento ou ideias quando se trata de solucionar problemas ou entregar resultados com eficiência. Pode ser porque você evita a política, ter visibilidade, ou não está aberto a experimentar novas formas de fazer as coisas. Para desenvolver essa habilidade, você pode começar fazendo um mapa de relacionamento, estudar o organograma da sua empresa e identificar as pessoas-chave que podem ajudá-lo no seu trabalho, perguntar ao seu líder ou colegas quem são as pessoas que você deve conhecer e procurar ser conectado com eles(as)."
+    },
+    "change_agility": {
+      "title": "Change Agility",
+      "broad_strengths": "Companies need flexible people who can quickly adapt to change, who can analize past experiences and apply the learnings in new and different situations. You are seen as that person who enjoys the challenge of change, who not only follows it but also proposes it when there are opportunities for improvement. You encourage diversity of thought to promote innovation.",
+      "broad_risks": "Using this skill in excess can lead you to persistently seek change and innovation just to discard the old, putting efficiency and profitability at risk.",
+      "deep_recommendations": "During change, you are perceived as someone who has difficulty learning new things or is easily frustrated when faced with new scenarios. You may prefer to stay in your comfort zone rather than experiment with new ways of looking at things, or lock yourself into actions that worked in the past. Take the time to understand interpersonal dynamics and situational changes, it will be easier for you to perceive when you should be the one to adapt and not the others. Remember that the negative results that can come from a change, are learning oportunities."
+    },
+    "results_agility": {
+      "title": "Results Agility",
+      "broad_strengths": "Nowadays there are so many technological, market or circumstantial disruptions that clarity and certainty are rare. Solving problems and implementing actions in this volatile context means, in the best of cases, moving forward when the road is cloudy. This is how you are perceived in the company, as that person who stays energized in ambiguous or uncertain situations and achieves significant progress while remaining calm.",
+      "broad_risks": "Overuse of this skill can cause you to jump to conclusions without having enough data. Or you may carry out actions without first giving clarity to others as to why, going over people.",
+      "deep_recommendations": "People perceives you as someone who in situations of uncertainty or ambiguity has difficulty delivering results. This may happen because you prefer well-structured and predictable situations to maintain control; or over focus on the downsides of unclear situations; or simply from an excessive need to be right, avoiding the risk of making mistakes. Leading comfortably with uncertainty and ambiguity means setting aside your certainty. This is like jumping from one trapeze to another, where for a few minutes you will be in the air without the certainty that you're going to be able to catch the next one. You can hang on to the previous one and be sure you won't fall, but you won't be able to advance to the next platform."
+    },
+    "self_awareness": {
+      "title": "Self Awareness",
+      "broad_strengths": "To position yourself well in work and life, it is necessary to know in what you are excellent, good, average, bad at, what you don't know and what you use excessively. This is not something new, the fact that Socrates said -Know yourself- and more than 2,000 years later we continue looking for how to know ourselves, shows us the complexity of this task. You are being recognized as someone who knows how to connect the external perspective of yourself (how others see you) and the internal (how you see yourself), which for many can be uncomfortable. This ability makes you a person open to feedback and always looking to develop yourself.",
+      "broad_risks": "Using this skill excessively can take your self-criticism to a level of appearing not very credible or insecure about your abilities. Analyze and think excessively about the feedback of others. Or spending a lot of time on self-reflection rather than making changes in your behaviors or abilities.",
+      "deep_recommendations": "You are being perceived as a person who has little self-knowledge, that is, the perception you have of yourself is very distant from what others have of you. Receiving this type of feedback is challenging and uncomfortable, you may be reacting in a defensive or arrogant way, however only through feedback you will be able to know these gaps and work on them. Remember that nobody likes to give negative feedback, look for how to facilitate the work of others by assuming a thoughtful and calm posture. Feedback is only the perception that someone else has of you, it is not an absolute truth, do not feel judged. Analyze what behaviors make people take away that unwanted perception and change them."
+    }
+  },
+  "applyFilter": "Apply filters"
+}

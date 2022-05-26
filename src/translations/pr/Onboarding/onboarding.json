@@ -1,0 +1,40 @@
+{
+  "title": "Onboarding",
+  "send": "Enviar Onboarding",
+  "saveButton": "Salve",
+  "cancelButton": "Cancelar",
+  "massiveTitle": "Masivo onboarding",
+  "documentRequired": "Documento requerido",
+  "document": "Documento",
+  "addDocumentToList": "Adicionar documento à lista",
+  "documentTitle": "Criar documento",
+  "addDocument": "Criar documento",
+
+  "fieldTitle": "Criar campo",
+  "fieldRequired": "Campo obrigatório",
+  "field": "Campo",
+  "addFieldToList": "Adicionar campo à lista",
+  "addField": "Criar campo",
+  "error": {
+    "alert_title": "Formulário",
+    "email_is_already_in_use": "O e-mail já está em uso na plataforma"
+  },
+  "salary_information_title": "Informação Salarial",
+  "personal_information_title": "Informação pessoal",
+  "candidate_information_title": "Informação do candidato",
+  "job_information_title": "Informação de Trabalho",
+  "fill_required_fields": "Por favor, preencha os campos obrigatórios",
+  "required_documents": {
+    "title": "Documentos exigidos ao candidato",
+    "description": "Criar ou seleccionar um documento a ser solicitado ao requerente.",
+    "select": "Adicionar novo documento",
+    "add": "Criar documento"
+  },
+  "additional_information": {
+    "title": "Informação adicional exigida ao candidato",
+    "description": "Criar ou seleccionar as perguntas adicionais que deseja fazer ao candidato.",
+    "select": "Adicionar nova pergunta",
+    "add": "Criar pergunta"
+  },
+  "required": "Obrigatório"
+}

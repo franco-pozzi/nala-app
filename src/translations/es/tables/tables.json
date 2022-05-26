@@ -1,0 +1,80 @@
+{
+  "headers": {
+    "name": "Nombre",
+    "manager": "Líder",
+    "location": "Localidad",
+    "position": "Cargo",
+    "date":"Fecha",
+    "email": "Correo Electrónico",
+    "start_end_date": "Fecha inicio / terminación",
+    "start_date": "Fecha de inicio",
+    "end_date": "Fecha de terminación",
+    "description": "Descripción",
+    "metrics": " Meta",
+    "weight": "Peso",
+    "status": "Resultado",
+    "review-date": "Fecha Límite",
+    "rule": "Regla",
+    "compliance": "Cumplimiento",
+    "realized": "Realizado",
+    "category": "Categoría",
+    "state": "Estado",
+    "title": "Título",
+    "document_name": "Nombre del documento",
+    "document_type": "Tipo de documento",
+    "hidden": "Oculto",
+    "actions": "Acciones"
+  },
+  "footer":{
+    "of": "de"
+  },
+  "filters": {
+    "manager": "Líder",
+    "country": "País",
+    "city": "Ciudad",
+    "unit": "Unidades",
+    "collaboratorsStates": "Estados",
+    "collaborator_states": {
+      "active": "Activos",
+      "inactive": "Inactivos"
+    },
+    "states": "Estados",
+    "timeOffTypes": "Tipo de tiempo libre"
+  },
+  "actions":{
+    "view_profile": "Ver perfil",
+    "edit_profile": "Editar perfil",
+    "promote": "Promoción",
+    "lateral_movement": "Movimiento lateral",
+    "salary_rise": "Aumento de salario por mérito",
+    "finish_contract": "Desvincular",
+    "view_team": "Ver Equipo",
+    "add_goal": "Agregar meta",
+    "update": "Actualizar",
+    "delete": "Eliminar",
+    "archieve": "Archivar",
+    "unarchieve": "Desarchivar",
+    "duplicate": "Duplicar",
+    "download": "Descargar",
+    "cancel": "Cancelar",
+    "accept": "Aceptar",
+    "edit": "Editar",
+    "create_agreement": "Crear acuerdo",
+    "view_details": "Detalles"
+  },
+  "confirm_actions":{
+    "text_confirm": "¿Estás segura de que quieres eliminar el objetivo?"
+  },
+  "helpers": {
+    "description": "Escriba el objetivo del colaborador lo más específico y claro posible",
+    "metrics": "Escriba el indicador (número) asociado a la meta",
+    "weight": "Escriba el porcentaje que representa la meta sobre el total",
+    "status": "Indicador (número) alcanzado a la fecha",
+    "rule": "Utiliza “Más es mejor!” cuando tu meta está enfocada en aumentar el indicador. Utiliza “Menos es mejor!” cuando tu meta está enfocada en reducir el indicador."
+  },
+  "rules": {
+    "less_is_better": "Menos es mejor",
+    "more_is_better": "Más es mejor"
+  },
+  "search": "Buscar"
+}

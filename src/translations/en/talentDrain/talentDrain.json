@@ -1,0 +1,95 @@
+{
+  "title": "Attrition risk",
+  "preview": "Preview",
+  "chart":{
+    "labels": {
+      "job_satisfaction": "Job Satisfaction",
+      "well_balanced": "Well Balanced",
+      "inclusive_growth": "Inclusive Growth",
+      "leader_impact": "Leader Impact",
+      "collaboration": "Collaboration",
+      "compensation": "Compensation",
+      "engagement": "Engagement"
+    },
+    "tooltips":{
+      "job_satisfaction": "The role is aligned with the expectations, still develops within it, knows the impact on the company and feels valued.",
+      "well_balanced": "The job allows the employee to have the expected life quality.",
+      "inclusive_growth": "The employee has the same opportunities as everyone within the company, feels included and receives the same treatment as everyone.",
+      "leader_impact": "Leadership's style impact on the team.",
+      "collaboration": "Has a healthy relationship with the co-workers and contributes to the team.",
+      "compensation": "Salary fairness compared to the market, within the company and/or personal satisfaction.",
+      "engagement": "Due to a high level of autonomy, purpose and mastery, the employee feels highly engaged and connected to the company.",
+      "description": "Description"
+    },
+    "tooltipsContent": {
+      "titles": {
+        "critic": "Critical!",
+        "warning": "Alarming",
+        "info": "Take an action",
+        "success": "Great, keep it up!"
+      },
+      "job_satisfaction":{
+        "critic":"Consider changing the employee's role, it seems it is no longer a challenge.",
+        "warning": "Recognize more frequently the achievements and deliveries, establish new challenges in the position.",
+        "info": "Something is bothering within the position, perform a feedback meeting and identify it!"
+      },
+      "well_balanced":{
+        "critic":"Needs some vacations or a time off to rest, once you avoid burn out you could help him/her to establish a more healthier routine.",
+        "warning": "Seek professional support, perhaps your employee needs to reorganize the priorities and find a healthier balance.",
+        "info": "If your employee has many responsibilities, redistribute them. If it is due to lack of organization, help him/her develop a better agenda."
+      },
+      "inclusive_growth":{
+        "critic":"Your employee seems to feel excluded or lacking development opportunities. Assess the potential and performance, maybe is ready to be promoted and you are not seeing it.",
+        "warning": "Your employee does not feel 100% included and sees unlikely that there will be growth opportunities, evaluates his/her potential, perhaps by investing time in developing some technical capabilities new opportunities or challenges could be open in the midterm.",
+        "info": "Check your team’s dynamics, your employee may see growth opportunities but does not feel 100% included."
+      },
+      "leader_impact":{
+        "critic":"You need to make a change, talk to your team, make agreements and focus on improving those little things that in the short term can quickly generate a positive impact. Transparency with your team will be your best ally.",
+        "warning": "Be open to your team's feedback, you achieve your results through the team, it is important to improve this relationship.",
+        "info": "You are on the right track, but it is important that you listen to your team’s feedback, it is always possible to improve those skills that your employees value the most."
+      },
+      "collaboration":{
+        "critic":"Check the possibility of relocating your employee to another work team, the dynamics may already be too worn out to fix them.",
+        "warning": "Carry out a team integration dynamic and identify possible frictions that can be worked on.",
+        "info": "Integrate your employee more into the team, strengthen the bonds and dynamics of the group."
+      },
+      "compensation":{
+        "critic":"Evaluate the possibility of making a raise, it is very likely that your employee’s salary is way out of the market or internal equity.",
+        "warning": "Check out the salary equity of the team, there may be differences that are generating friction between them.",
+        "info": "Your employee may feel unrecognized or under valued according to his/her performance. Recognizing the work and showing a path of growth can lighten this discomfort."
+      },
+      "engagement":{
+        "critic":"There is great dissatisfaction towards the company, find out what made the person feel connected to the company in the past and try to revive that flame.",
+        "warning": "Identify the best attributes of the company culture and boost them; also learn to recognize the weaknesses and explain them to align the expectations of your employee.",
+        "info": "Identify your employee’s main motivations so when they feel frustrated, remind them of those attributes and reconnect them with the vision. It's important to get out of the routine to see the big picture and reconnect."
+      }
+    }
+  },
+  "table":{
+    "table-head": {
+      "name": "Name",
+      "lossRisk": "Attrition risk",
+      "performance": "Performance",
+      "recommendation": "Recommendation",
+      "actions": "Actions"
+    }
+  },
+  "filters":{
+    "appliedFilters": "Applied filters",
+    "collaborators": "Employees",
+    "managers": "Managers",
+    "unities": "Divisions",
+    "periods": "Periods",
+    "countries": "Countries",
+    "cities": "Cities",
+    "orgUnits": "Divisions",
+    "states": "States",
+    "nofilter": "None Filtered"
+  },
+  "satisfactionMap": "Satisfaction map",
+  "map": "Map",
+  "recommendations": "Recommendations",
+  "lowRisk": "Low risk",
+  "mediumRisk": "Medium risk",
+  "highRisk": "High risk"
+}

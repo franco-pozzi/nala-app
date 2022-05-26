@@ -1,0 +1,80 @@
+{
+  "headers": {
+    "name": "Name",
+    "manager": "Manager",
+    "location": "Location",
+    "position": "Position",
+    "date":"Date",
+    "email": "Email address",
+    "start_end_date": "Start / End date",
+    "start_date": "Start date",
+    "end_date": "End date",
+    "description": "Description",
+    "metrics": "Goal",
+    "weight": "Weight",
+    "status": "Result",
+    "review-date": "Deadline",
+    "rule": "Rule",
+    "compliance": "Achievement",
+    "realized": "Realized",
+    "category": "Category",
+    "state": "Status",
+    "title": "Title",
+    "document_name": "Document name",
+    "document_type": "Document type",
+    "hidden": "Hidden",
+    "actions": "Actions"
+  },
+  "footer":{
+    "of": "of"
+  },
+  "filters": {
+    "manager": "Manager",
+    "country": "Country",
+    "city": "City",
+    "unit": "Organization unit",
+    "collaboratorsStates": "States",
+    "collaborator_states": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "states": "States",
+    "timeOffTypes": "Type of free time"
+  },
+  "actions":{
+    "view_profile": "View profile",
+    "edit_profile": "Edit profile",
+    "promote": "Promote",
+    "lateral_movement": "Lateral movement",
+    "salary_rise": "Salary rise",
+    "finish_contract": "Finish contract",
+    "view_team": "View Team",
+    "add_goal": "Add goal",
+    "update": "Update",
+    "delete": "Delete",
+    "archieve": "Archive",
+    "unarchieve": "Unarchive",
+    "duplicate": "Duplicate",
+    "download": "Download",
+    "cancel": "Cancel",
+    "accept": "Accept",
+    "edit": "Edit",
+    "create_agreement": "Create agreement",
+    "view_details": "Details"
+  },
+  "confirm_actions":{
+    "text_confirm": "Are you sure you want to remove the goal?"
+  },
+  "helpers": {
+    "description": "Write down employee objective as specific and clear as you can",
+    "metrics": "Write the metric (in number) related to the objective",
+    "weight": "Which is the percentage of the metric that represent in the total",
+    "status": "Metric (in number) reach so far or to date",
+    "rule": "Use “More is better!“ when your goal is focused on increasing the metric. Use “Less is better!“ when your goal is focused on reducing the metric."
+  },
+  "rules": {
+    "less_is_better": "Less is Better",
+    "more_is_better": "More is Better"
+  },
+  "search": "Search"
+}

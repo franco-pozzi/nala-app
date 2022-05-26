@@ -1,0 +1,66 @@
+{
+  "viewTitle": "Tiempo libre",
+  "tabs": {
+    "personal": "Personal",
+    "team": "Equipo"
+  },
+  "excel": {
+    "Personal id": "Documento de identidad",
+    "Name": "Nombre",
+    "Email": "Email",
+    "Manager name": "Lider",
+    "Starting date": "Fecha desde",
+    "Finish date": "Fecha hasta",
+    "Number of calendar days": "Numero de días calendario",
+    "Number of business days": "Numero de días hábiles",
+    "Type": "Tipo",
+    "Reason": "Motivo",
+    "State": "Estado",
+    "download-excel": "Descargar Excel"
+  },
+  "search_collaborators": "Buscar colaboradores",
+  "Manage_request": {
+    "Accept": "Si, estoy seguro/a",
+    "Reject": "No, cancelar",
+    "Title": "¿Está seguro/a?",
+    "SubtitleReject": "Estas seguro/a que quieres rechazar la solicitud.",
+    "SubtitleAccept": "Estas seguro/a que quieres aceptar la solicitud.",
+    "SubtitleDelete": "Estas seguro/a que quieres eliminar la solicitud.",
+    "Pending": "Pendiente",
+    "Approved": "Aprobado",
+    "RejectionReason" : "Motivo de rechazo"
+  },
+  "states": {
+    "pending": "Pendiente",
+    "rejected": "Rechazado",
+    "approved": "Aprobado",
+    "approved_by_leader":"Aprobado por líder"
+  },
+  "types":{
+    "vacations": "Vacaciones",
+    "medical_license": "Licencia Médica",
+    "permission": "Permiso",
+    "ticket_days": "Días de Tiquetera",
+    "mourning_leave": "Licencia por Luto",
+    "mariage_leave": "Licencia por Matrimonio",
+    "maternity_leave": "Licencia por Maternidad",
+    "paternity_leave": "Licencia por Paternidad"
+  },
+  "document": "Documento",
+  "under_construction": {
+    "title": "Módulo en construcción",
+    "message": "De momento, recibirás las notificaciones de tu solicitud de tiempo libre por correo electrónico",
+    "comingSoon": "Próximamente"
+  },
+  "from": "Desde",
+  "to": "Hasta",
+  "whoIsFree": "¿Quién esta en su tiempo libre del equipo?",
+  "typeOfAbsence": "Tipo de ausencia",
+  "history": "Historial de tiempo libre",
+  "editTimeOffTitle": "Editar solicitud de tiempo libre",
+  "overallStatus": {
+    "confirmed": "Confirmadas",
+    "toBeConfirmed": "Por confirmar",
+    "enjoyed": "Disfrutados"
+  }
+}

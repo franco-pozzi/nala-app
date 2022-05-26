@@ -1,0 +1,75 @@
+{
+  "title": "Pesquisas",
+  "form": {
+    "fields": {
+      "process_type": "Tipo de processo",
+      "process_name": "Nome do processo",
+      "min_worked_days": "Tempo mínimo na empresa para participar (dias)",
+      "min_worked": "Tempo mínimo na empresa para participar",
+      "days": "Dias",
+      "start_date": "Data de início",
+      "end_date": "Data de término",
+      "select_evaluations": "Selecione as avaliações que se aplicam",
+      "weighing": "Peso",
+      "link": "URL do formulário",
+      "answers_file_location": "Localização do arquivo de respostas",
+      "params": {
+        "title": "Parâmetros válidos para este tipo de avaliação",
+        "subtitle": "Se você não inserir os parâmetros, o preenchimento automático do formulário não funcionará",
+        "evaluator_email": "Key para email do avaliador",
+        "evaluated_name": "Key para nome do avaliado",
+        "evaluated_email": "Key para email do avaliado"
+      },
+      "follow_up": "Acompanhamento",
+      "evaluated": "Avaliando para:",
+      "evaluator": "Avaliador",
+      "people": "Indivíduos",
+      "general_data": {
+        "title": "Configurações gerais",
+        "comments": "Comentários",
+        "general_comments_title": "Comentários gerais",
+        "nala_form": "Ative o Nala Form para este processo",
+        "general_comments": "Ativar comentários gerais"
+      }
+    }
+  },
+  "evaluation_types": {
+    "self_evaluation": "Auto avaliação",
+    "manager": "Líder",
+    "pairs": "Pares",
+    "collaborators": "Equipe",
+    "overall": "Em geral",
+    "human_resources": "RRHH"
+  },
+  "processes_types": {
+    "performance": "Avaliação de Desempenho",
+    "potential": "Pesquisa de Habilidades",
+    "engagement": "Barômetro de clima",
+    "good_leader": "Pesquisa de Bom Líder",
+    "training": "Qualidade do treinamento"
+  },
+  "evaluations": {
+    "collaborators": {
+      "submitted": "Como uma equipe",
+      "received": "Da equipe"
+    },
+    "pairs": {
+      "submitted": "Como um par",
+      "received": "Dos pares"
+    },
+    "manager": {
+      "submitted": "Como Líder",
+      "received": "Do Líder"
+    }
+  },
+  "details": "Respostas detalhadas",
+  "received": "Recebido",
+  "report": "# Relatórios diretos",
+  "evaluator_name": "Nome do avaliador",
+  "evaluated_name": "Nome do avaliado",
+  "evaluator_email": "Email do avaliador",
+  "evaluated_email": "Email do avaliado",
+  "comments": "Comentários",
+  "evaluations_to_answers": "# Total de avaliações a serem feitas",
+  "evaluation_type": "Tipo de avaliação"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Plantillas",
+  "select_template": "Seleccionar plantilla",
+  "selected_data": "Datos seleccionados",
+  "description": "Aquí pudes escoger una plantilla o crear para realizar preguntas adicionales, solicitar documentos o entregar información sobre la empresa.",
+  "actions": {
+    "create": "Crear plantilla",
+    "edit": "Editar plantilla",
+    "delete": "Eliminar plantilla",
+    "send": "Guardar plantilla",
+    "show": "Previsualización de la plantilla"
+  },
+  "template_title": {
+    "title": "Título de la plantilla",
+    "label": "Título"
+  },
+  "required_documents": {
+    "title": "Documentos requeridos al candidato",
+    "description": "Crea o selecciona los documentos que debes solicitar al candidato.",
+    "select": "Agregar nuevo documento",
+    "add": "Crear documento"
+  },
+  "additional_information": {
+    "title": "Información adicional requerida al candidato",
+    "description": "Crea o selecciona las preguntas adicionales que quieras hacer al candidato.",
+    "select": "Agregar nueva pregunta",
+    "add": "Crear pregunta"
+  },
+  "alertMessage": {
+    "create_template": "Estas seguro que quieres crear la plantilla.",
+    "update_template": "Estas seguro que quieres actualizar la plantilla.",
+    "delete_template": "Estas seguro que quieres eliminar la plantilla."
+  }
+}
