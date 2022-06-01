@@ -294,7 +294,7 @@ export const GANT_COLOR = {
   rejected: "#F0B3A6",
   vacations: "#2930FF1C",
   medicalLicense: "#19E2D62E",
-  permission: "#8D29FF30",
+  approved: "#8D29FF30",
 };
 
 export const GANT_LETTER_COLOR = {
@@ -302,7 +302,7 @@ export const GANT_LETTER_COLOR = {
   rejected: "#FA0000",
   vacations: "#2930FF",
   medicalLicense: "#19B0A2",
-  permission: "#7500FA",
+  approved: "#7500FA",
 };
 
 export const FOLLOW_UP_STATUS_COLOR = {

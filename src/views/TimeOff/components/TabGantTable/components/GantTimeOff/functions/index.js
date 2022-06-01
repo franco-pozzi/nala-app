@@ -8,7 +8,7 @@ const STATES_BACKGROUND = {
   rejected: GANT_COLOR.rejected,
   vacations: GANT_COLOR.vacations,
   medical_license: GANT_COLOR.medicalLicense,
-  permission: GANT_COLOR.permission,
+  approved: GANT_COLOR.approved,
 };
 
 const LETTER_STATES = {
@@ -16,11 +16,11 @@ const LETTER_STATES = {
   rejected: GANT_LETTER_COLOR.rejected,
   vacations: GANT_LETTER_COLOR.vacations,
   medical_license: GANT_LETTER_COLOR.medicalLicense,
-  permission: GANT_LETTER_COLOR.permission,
+  approved: GANT_LETTER_COLOR.approved,
 };
 
 export const getGantColor = (state, timeOffType, isLetter) => {
-  if (state === STATES.pending || state === STATES.rejected) {
+  if (state === STATES.pending || state === STATES.rejected || state === STATES.approved ) {
     return isLetter ? LETTER_STATES[state] : STATES_BACKGROUND[state];
   }
   return isLetter ? LETTER_STATES[timeOffType] : STATES_BACKGROUND[timeOffType];
