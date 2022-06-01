@@ -59,7 +59,7 @@ const TimeOffCard = (props) => {
             </StyledCardFont>
             <StyledHr />
             <StyledCardButton justify={ ALIGN_ITEMS.flexEnd } >
-              { getOptions(item) }
+            { item.state === 'pending' && getOptions(item) }
             </StyledCardButton>
           </StyledCardContentContainer>
         </StyledRootContainer>
