@@ -39,8 +39,8 @@ const TimeOffForm = (props) => {
   } = props;
   const classes = useStyles();
 
-  const [files, setFiles] = useState([]);
-
+  const [files, setFiles] = useState(data?.files_url.map((item) =>  ({name: getFileName(item)}) ) || []);
+  
   const {
     handleSubmit,
     control,
@@ -90,12 +90,12 @@ const TimeOffForm = (props) => {
   const onSubmit = async () => {
     const formData = new FormData();
     const form = control.getValues();
-    files.forEach((element) => formData.append("time_off[files][]", element));
+    formData.append("time_off[files][]", '');
     formData.append("time_off[employee_id]", userId);
     formData.append("time_off[starting_date]", form.starting_date);
     formData.append("time_off[ending_date]", form.ending_date);
     formData.append("time_off[reason]", form.reason);
-    formData.append("time_off[time_off_type_id]", form.time_off_type_id);
+    formData.append("time_off[time_off_type_id]", form.time_off_type_id);    
 
     if (data?.id) {
       dispatch(update(data.id, formData, true));
